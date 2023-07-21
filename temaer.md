@@ -13,21 +13,12 @@ Dette temaet gir en introduksjon til den nordiske modellen, og til arbeidsmarked
 * NOU - 2021:9 - Den norske modellen og fremtidens arbeidsliv — Utredning om tilknytningsformer og virksomhetsorganisering
 
 ## Forelesninger
-| Forelesning | Tema | Pensum | 
+| Forelesning | Innhold | Pensum | 
 | ----------- |------- |----- | 
 | F1.1 | Introduksjon til den nordiske modellen | NOU 2021:9 kapittel 3 |
 | F1.2 | Velferdsstaten - filosofi og finansiering | Barr. Kapittel 1 og 2 |
 | F1.3 | Introduksjon til arbeidsmarkedsøkonomi 1 - Arbeidstilbud | Boeri og van Ours. Kapittel 1 |
 | F1.4 | Introduksjon til arbeidsmarkedsøkonomi 2 - Etterspørsel på arbeid | Boeri og van Ours. Kapittel 1 |
-
-
-| Forelesning | Tema | Pensum | 
-| ----------- |------- |----- | 
-| F1.1 |  | |
-| F1.2 |  |  |
-| F1.3 | | |
-| F1.4 |  |  |
-
 
 ### [Lenker til forelesningsnotater](forelesninger.md#f_t1) (oppdateres fortløpende)
 
@@ -49,10 +40,12 @@ Dette temaet gir en introduksjon til arbeidsmarkedsøkonomi. Vi vil gå igjennom
 
 ## Forelesninger
 
-| Forelesning | Pensum | Dato | 
+| Forelesning | Innhold | Pensum | 
 | ----------- |------- |----- | 
-|F2.1 - Introduksjon til arbeidsmarkedsøkonomi | Boeri og van Ours, kap. 1| ons 7. sept|
-|F2.2 - Fagforeninger og kollektive forhandlinger | Boeri og van Ours, kap. 3| ons 12. sept|
+| F2.1 |  | |
+| F2.2 |  |  |
+| F2.3 | | |
+| F2.4 |  |  |
 
 ### [Lenker til forelesningsnotater](forelesninger.md#f_t2) (oppdateres fortløpende)
 
