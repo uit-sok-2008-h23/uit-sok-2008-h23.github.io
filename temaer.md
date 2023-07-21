@@ -30,22 +30,23 @@ Dette temaet gir en introduksjon til den nordiske modellen, og til arbeidsmarked
 &nbsp;
 &nbsp;
 
-# Tema 2 - Introduksjon til arbeidsmarkedsøkonomi <a name="tema2"></a>
-Dette temaet gir en introduksjon til arbeidsmarkedsøkonomi. Vi vil gå igjennom sentrale begreper og analysere individets tilbud av arbeid, bedrifters etterspørsel på arbeid, og likevekt under fullkommen konkurranse. I tillegg vil vi analysere effekter av markedsmakt på arbeidsmarkedet.
+# Tema 2 - Høy yrkesdeltakelse <a name="tema2"></a>
+**Legg til introtekst**
 
 ## Pensum
 ### Bøker og annen litteratur
-* Boeri og van Ours, kap. 1 og 3
-* NOU - 2021:2 - Kompetanse, aktivitet og inntektssikkring. Tiltak for økt sysselsetting
+* Boeri og van Ours. kapittel 5 og 7
+* Barr. Kapittel 3, 9 - 11
+* NOU - 2021:9 - Den norske modellen og fremtidens arbeidsliv — Utredning om tilknytningsformer og virksomhetsorganisering
 
 ## Forelesninger
 
 | Forelesning | Innhold | Pensum | 
 | ----------- |------- |----- | 
-| F2.1 |  | |
-| F2.2 |  |  |
-| F2.3 | | |
-| F2.4 |  |  |
+| F2.1 | Arbeidstidsregulering | Boeri og van Ours. Kapittel 5|
+| F2.2 | Familiepolitikk | Boeri og van Ours. Kapittel 7 |
+| F2.3 | Utdanning | Barr. Kapittel 3 og 10 - 11 |
+| F2.4 | Helsetjenester | Barr. Kapittel 3 og 9  |
 
 ### [Lenker til forelesningsnotater](forelesninger.md#f_t2) (oppdateres fortløpende)
 
@@ -53,26 +54,25 @@ Dette temaet gir en introduksjon til arbeidsmarkedsøkonomi. Vi vil gå igjennom
 
 ## Innlevering Tema 2
 ### [Innleveringsoppgave 2](innlevering2.md) 
-### <span style="color:OrangeRed;">Frist: 20. september 2022 kl 23:59</span>
+### <span style="color:OrangeRed;">Frist: 22. september 2023 kl 16:00</span>
 &nbsp;
 &nbsp;
 
-# Tema 3 - Sysselsetting og kompetanse <a name="tema3"></a>
-Under Tema 3 vil vi se på private insentiver til, og sosiale behov for investeringer i kompetanse. Vi vil også se på hvordan inngrep på arbeidsmarkedet påvirker grupper med ulik kompetanse. 
+# Tema 3 - Organisert arbeidsliv <a name="tema3"></a>
+**Legg til introduksjonstekst!**
 
 ## Pensum
 ### Bøker og annen litteratur
-* Boeri og van Ours, kap. 2 & 8
-* Barr, kap 10-11
-* NOU - 2021:2 - Kompetanse, aktivitet og inntektssikkring. Tiltak for økt sysselsetting
+* Boeri og van Ours. Kapittel 2 og 3
+* NOU - 2021:9. Kapittel 3 (**Sjekk at dette er riktig**)
 
 ## Forelesninger
 
-| Forelesning | Pensum | Dato | 
+| Forelesning | Innhold | Pensum | 
 | ----------- |------- |----- | 
-|F3.1 - Introduksjon til utdanning og kompetanse | Barr, kap. 10 & 11| ons 21. sept|
-|F3.2 - Lønnsreguleringer | Boeri og van Ours, kap. 2| fre 23. sept|
-|F3.3 - Kompetanseheving på arbeidsmarkedet | Boeri og van Ours, kap. 8| fre 28. sept|
+| F3.1 | Minstelønn | Boeri og van Ours. Kapittel 2|
+| F3.2 | Fagforeninger | Boeri og van Ours. Kapittel 3 |
+| F3.3 | Nordiske arbeidsmarkedsmodellen | NOU 2021:9, kapittel 3|
 
 ### [Lenker til forelesningsnotater](forelesninger.md#f_t3) (oppdateres fortløpende)
 
@@ -80,7 +80,7 @@ Under Tema 3 vil vi se på private insentiver til, og sosiale behov for invester
 
 ## Innlevering Tema 3
 ### [Innleveringsoppgave 3](innlevering3.md)  
-### <span style="color:OrangeRed;">Frist: 4. oktober kl 23:59</span>
+### <span style="color:OrangeRed;">Frist: 6. oktober kl 16:00</span>
 &nbsp;
 &nbsp;
 
