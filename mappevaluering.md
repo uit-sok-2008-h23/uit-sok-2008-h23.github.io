@@ -37,9 +37,7 @@ Innleveringene skal skje individuelt.
 ## Evaluering av innleveringer
 Enhver innlevering kan gi 0 til 2 poeng. Totalt kan altså innleveringene gi 12 poeng (6 innleveringer à 2 poeng). 
 
-Poengen til **flervalgstestene** blir satt etter regelen: $\frac{(R-0.25\cdot T)}{(0.75\cdot T)}\cdot 2$, der $R$ er antall riktige svar, og $T$ er totalt antall spørsmål i testen. 
-
-Årsaken til at du må ha mer enn 50% riktige svar, er at det går å svare riktig av ren tilfeldighet på flervalgstester. Alle spørsmål på flervalgstestene på sok-2008 har 4 svarsalternativer. Sannsynligheten for å svare riktig av tilfeldigheter er derved 25%. 
+Poengen til **flervalgstestene** blir satt etter regelen: **$\frac{(R-0.25\cdot T)}{(0.75\cdot T)}\cdot 2$**, der $R$ er antall riktige svar, og $T$ er totalt antall spørsmål i testen. Poenget blir avrundet til 1 desimal. Regelen innebærer at, dersom testen har 100 spørsmål, må du ha 61 riktige svar for å få 1 poeng på testen. Årsaken til at du må ha mer enn 50% riktige svar for å få 1 poeng, er at det går å svare riktig av ren tilfeldighet på flervalgstester. Alle spørsmål på flervalgstestene på sok-2008 har 4 svarsalternativer. Sannsynligheten for å svare riktig av ren tilfeldighet er derved 25%. Regelen korrigerer for dette. 
 
 **Utfordringene blir bedømt** i henhold til regelen i Tabell 2.
 
