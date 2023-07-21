@@ -32,12 +32,9 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 ## Pensum 
 
-### Pensum til forelesningene
-
 [Leganto]([https://bibsys-c.alma.exlibrisgroup.com/leganto/](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/searchlists/10569806780002205?auth=SAML)){:target="blank"}  
 
 - [Barr N. The Economics of the Welfare State, 6th Edition, Oxford University Press](https://www.akademika.no/9780198748588/pedagogikk-og-samfunnsvitenskap/samfunnsokonomi/economics-welfare-state)
-
 - [Boeri, T. & van Ours, J. The Economics of Imperfect Labor Markets, Third Edition, Princeton](https://www.akademika.no/economics-imperfect-labor-markets-third-edition/ours-tito-boeri-jan-van/9780691208824)
 - [Norges offentlige utredninger (NOU) 2021:9 - Den norske modellen og fremtidens arbeidsliv — Utredning om tilknytningsformer og virksomhetsorganisering](https://www.regjeringen.no/no/dokumenter/nou-2021-9/id2862895/)
 - [Norges offentlige utredninger (NOU) 2011:7 - Velferd og migrasjon](https://www.regjeringen.no/no/dokumenter/nou-2011-07/id642496/)
