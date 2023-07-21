@@ -34,7 +34,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 ### Pensum til forelesningene
 
-[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/){:target="blank"}  
+[Leganto]([https://bibsys-c.alma.exlibrisgroup.com/leganto/](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/searchlists/10569806780002205?auth=SAML)){:target="blank"}  
 
 
 - [Barr N. The Economics of the Welfare State, 6th Edition, Oxford University Press](https://www.akademika.no/9780198748588/pedagogikk-og-samfunnsvitenskap/samfunnsokonomi/economics-welfare-state)
