@@ -41,7 +41,7 @@ Poengen til **flervalgstestene** blir satt etter regelen: **$\frac{(R-0.25\cdot 
 
 **Utfordringene blir bedømt** i henhold til regelen i Tabell 2.
 
-**NB: Hver enkel av de 6 innleveringsoppgave består av flere «utfordringer». Envher av disse utfordringer må besvares. Hvis en av utfordringene ikke er besvart, eller er besvart svært ufullstendig eller felaktig, er det fullt mulig å få null poeng på innleveringen.**
+**NB: Hver enkel av de 3 utfordingene består av flere deloppgaver. Envher av disse deloppgaver må besvares. Hvis en av deloppgavene ikke er besvart, eller er besvart svært ufullstendig eller felaktig, er det fullt mulig å få null poeng på innleveringen.**
 
 **Tabell 2.** Regel for poengsetting av innleveringsoppgaver
 
