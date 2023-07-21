@@ -1,3 +1,7 @@
+{% include top-box.html %} <!-- Kode for å inkludere boksen på toppen av siden. Se _config.yml for å gjøre endringer. -->
+{% include navbar.html %} <!-- Kode for navigasjonsmeny. Se navbar.html for å gjøre endringer. -->
+<!-- Gjør endringer under her -->
+
 # Tema 1 - Introduksjon til den nordiske modellen og arbeidsmarkedsøkonomi <a name="tema1"></a>
 Dette temaet gir en introduksjon til den nordiske modellen, og til arbeidsmarkedsøkonomi.
 
