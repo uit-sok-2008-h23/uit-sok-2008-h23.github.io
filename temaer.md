@@ -12,6 +12,7 @@ Dette temaet gir en introduksjon til den nordiske modellen, og til arbeidsmarked
 * NOU - 2021:9 - Den norske modellen og fremtidens arbeidsliv — Utredning om tilknytningsformer og virksomhetsorganisering
 
 ## Forelesninger
+
 | Forelesning | Innhold | Pensum | 
 | ----------- |------- |----- | 
 | F1.1 | Introduksjon til den nordiske modellen | NOU 2021:9 kapittel 3 |
