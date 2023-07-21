@@ -5,12 +5,12 @@
 # Muntlig eksamen
 
 ## Tid for eksamen
-Den muntlige eksamen er skjemalagt til **<span style="color:OrangeRed;">27. novemnber - 1. desember (uke 48)</span>**. 
+Den muntlige eksamen er skjemalagt til **<span style="color:OrangeRed;">27. november - 1. desember (uke 48)</span>**. 
 
 
 ## Skjema Muntlig eksamen
 
-Skjema og plass for muntlig eksamen blir publisert på Canvas seinest uken før eksamen.
+Skjema og plass for muntlig eksamen blir publisert på Canvas seinest 18. november.
 
 **Eksamen starter på det klokkeslett som blir angitt i skjemaet. Vi ønsker at dere er på plass minst 5 minutter før eksamen starter**
 
@@ -19,7 +19,7 @@ Det er lov å bytte tidspunkt, men det er regler knyttet til bytte.
 
 * Dere må selv finne en person å bytte med (vi vil ikke ordne med bytter til dere).
 * Dere må få byttet godkjent av denne personen
-* Dere må gi oss beskjed via epost om byttet (med hvem og hvilke tidspunkter det gjelder) **seinest fredag 2. desember kl 12:00**
+* Dere må gi oss beskjed via epost om byttet (med hvem og hvilke tidspunkter det gjelder) **seinest fredag 25 november kl 12:00**
 
 ## Opplegg
 På den muntlige eksamen vil du få besvare tre generelle spørsmål om kurset:
