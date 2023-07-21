@@ -1,6 +1,9 @@
 
-## [Slik lager du et kursrepositorie](readme_no.html){:target="blank"} (Slettes)
+## Kursbeskrivelse 
+På innføringskursene i mikroøkonomien lærer man at samfunnets velferd blir maksimert under fullkommen konkurranse. I virkeligheten er de fleste markedene ufullkomne og preget av markedssvikt. Markedssvikt sammen med fordelingshensyn er årsaker til at offentlig sektor har en stor rolle i moderne økonomier.  De nordiske landene har store offentlig sektorer og høyt skattenivå, men også veldig høy levestandard. Dette forklares med den nordiske samfunnsmodellen. Sentrale trekk ved modellen er økonomisk styring, offentlig velferdspolitikk, og organisert arbeidsliv. 
 
+
+Formålet med kurset SOK-2008 «Den Nordiske modellen» er å gi innsikt i sentrale trekk ved den nordiske samfunnsmodellen, og å gi en forståelse av offentlig inngrep i økonomien og innblikk i velferdsøkonomiske problemstillinger. Det vil bli lagt spesiell vekt på de teoretiske argumentene bak velferdsordningenes innretning og omfang og på de insentivproblemene som oppstår i skjæringspunktet mellom velferdsstat og marked.
 
 ## Kursplan  
 
@@ -13,12 +16,6 @@ Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligato
 
 
 [Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
-
-## Kursbeskrivelse 
-På innføringskursene i mikroøkonomien lærer man at samfunnets velferd blir maksimert under fullkommen konkurranse. I virkeligheten er de fleste markedene ufullkomne og preget av markedssvikt. Markedssvikt sammen med fordelingshensyn er årsaker til at offentlig sektor har en stor rolle i moderne økonomier.  De nordiske landene har store offentlig sektorer og høyt skattenivå, men også veldig høy levestandard. Dette forklares med den nordiske samfunnsmodellen. Sentrale trekk ved modellen er økonomisk styring, offentlig velferdspolitikk, og organisert arbeidsliv. 
-
-
-Formålet med kurset SOK-2008 «Den Nordiske modellen» er å gi innsikt i sentrale trekk ved den nordiske samfunnsmodellen, og å gi en forståelse av offentlig inngrep i økonomien og innblikk i velferdsøkonomiske problemstillinger. Det vil bli lagt spesiell vekt på de teoretiske argumentene bak velferdsordningenes innretning og omfang og på de insentivproblemene som oppstår i skjæringspunktet mellom velferdsstat og marked.
 
 ## Faglærerinfo
 - <strong>[Andrea Mannberg](https://uit.no/ansatte/andrea.mannberg)</strong> (Fagansvar) - professor i samfunnsøkonomi
