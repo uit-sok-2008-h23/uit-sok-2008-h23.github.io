@@ -43,11 +43,6 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 - [Norges offentlige utredninger (NOU) 2011:7 - Velferd og migrasjon](https://www.regjeringen.no/no/dokumenter/nou-2011-07/id642496/)
 
 
-
-
-
-
-
 ## Kunngjøringer  
 
 Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:target="blank"}.
@@ -55,7 +50,9 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:
 
 ## Innlevering og eksamen  
 
-Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
+Eksaminasjonen på kurset består av to deler: en mappeevaluering og en muntlig eksamen. De to delene teller likt til sluttkarakter. For å bestå kurset må du ha godkjent karakter på begge delene. Kurset har mappeevaluering.   
 
-Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.html){:target="blank"}.    
+Frister, oppgaver og ressurser til mappeevalueringen finnes i [mappevaluering](mappeevaluering.html){:target="blank"}. 
+
+Informasjon om den muntlige eksamen finnes i [muntlig eksamen](muntligeksamen.html){:target="blank"}. 
 
