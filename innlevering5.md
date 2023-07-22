@@ -32,7 +32,7 @@ Hver innleveringsoppgave leveres som en pdf-fil i en individuell mappe på Canva
 
 [Se her](howtogithub.md) for å lese mer om hvordan man leverer på GitHub.
 
-Bruk følgende navn på: SOK-2008-2022-utfordring1
+Bruk følgende navn på: SOK-2008-2022-utfordring3
 
 Innleveringene skal skje individuelt. 
 
