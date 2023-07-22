@@ -5,14 +5,14 @@
 # Utfordring 1
 ### <span style="color:OrangeRed;"> Frist: 22. september kl 16:00 </span>
 Du finner detaljert informasjon og tips om hvordan skrive en god besvarelse nederst på denne siden.
-På seminarene knyttet til temaet har du tilfelle å jobbe med oppgavene sammen med dine studentkolleger. Forelesere på kurset vil være tilstede for å svare på spørsmål. 
+Du vil få mulighet å jobbe med oppgavene på et utfordringsseminar knyttet til temaet. Forelesere på kurset vil være tilstede for å svare på spørsmål. 
 
 **Førberedelser og støtte:**
 
 Litteratur:
 
-Barr. Kapittel 3, 9-11
-Boeri og van Ours. Kapittel 5 og 7
+- Barr. Kapittel 3, 9-11
+- Boeri og van Ours. Kapittel 5 og 7
 
 [Forelesningsnotater](forelesninger.md#f_t1)
 
