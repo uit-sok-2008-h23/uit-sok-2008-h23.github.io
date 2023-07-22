@@ -1,4 +1,6 @@
-{% include navbar_closed.html %}  {% include top-box.html %} {% include_relative forelesningsplan.md %}
+{% include top-box.html %} <!-- Kode for å inkludere boksen på toppen av siden. Se _config.yml for å gjøre endringer. -->
+{% include_relative navbar.html %} <!-- Kode for navigasjonsmeny. Se navbar.html for å gjøre endringer. -->
+<!-- Gjør endringer under her -->
 
 # Forelesninger
 Her finner du lenker til alle forelesnigner på kurset. Siden oppdateres fortløpende
