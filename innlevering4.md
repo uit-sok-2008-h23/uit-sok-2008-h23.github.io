@@ -5,14 +5,14 @@
 # Utfordring 2
 ### <span style="color:OrangeRed;"> Frist: 20. oktober kl 16:00 </span>
 Du finner detaljert informasjon og tips om hvordan skrive en god besvarelse nederst på denne siden.
-På seminarene knyttet til temaet har du tilfelle å jobbe med oppgavene sammen med dine studentkolleger. Forelesere på kurset vil være tilstede for å svare på spørsmål. 
+Du vil få mulighet å jobbe med oppgavene på et utfordringsseminar knyttet til temaet. Forelesere på kurset vil være tilstede for å svare på spørsmål. 
 
 **Førberedelser og støtte:**
 
 Litteratur:
 
-Boeri og van Ours. Kapittel 2 og 3
-NOU 2021:9
+- Boeri og van Ours. Kapittel 2 og 3
+- NOU 2021:9
 
 [Forelesningsnotater](forelesninger.md#f_t1)
 
@@ -32,7 +32,7 @@ Hver innleveringsoppgave leveres som en pdf-fil i en individuell mappe på Canva
 
 [Se her](howtogithub.md) for å lese mer om hvordan man leverer på GitHub.
 
-Bruk følgende navn på: SOK-2008-2022-utfordring1
+Bruk følgende navn på: SOK-2008-2022-utfordring2
 
 Innleveringene skal skje individuelt. 
 
