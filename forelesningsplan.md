@@ -34,7 +34,7 @@ Undervisningen på SOK-2008 består av fysiske forelesninger, video-forelesninge
 | 41 | US - [Utfordring 2](innlevering3.md) | | | |  |
 | 42 |       |F4.1 - [Tema 4](temaer.md#tema4) <br> Barr k.4, 6  | F4.2 <br> Barr k.4, 6  | F4.3  <br> BO. k.12| Frist -  [Utfordring 2](innlevering4.md) |
 | 43 |       |  F4.4 <br> BO. k.13, Barr. k.6, 9  | S4.1 |               | FS - Utfordring 2|
-| 44 |        | US - [Utfordring 3](innlevering4.md)|      |      | |
+| 44 |        | US - [Utfordring 3](innlevering4.md)|      |      | Frist -  [Utfordring 3](innlevering5.md)|
 | 45 | F5.1 - [Tema 5](temaer.md#tema5) <br> BO. k.9 | |FS - Utfordring 3 | | F5.2 <br> Barr k.12, NOU 2011:9 |
 | 46 | | F - Oppsummering | | | Frist - [Flervalgstest 3](innlevering6.md)|
 | 47 |  | | | | |
