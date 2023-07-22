@@ -2,7 +2,7 @@
 {% include navbar.html %} <!-- Kode for navigasjonsmeny. Se navbar.html for å gjøre endringer. -->
 <!-- Gjør endringer under her -->
 
-# Innlevering 1
+# Utfordring 1
 ### <span style="color:OrangeRed;"> Frist: 22. september kl 16:00 </span>
 Du finner detaljert informasjon og tips om hvordan skrive en god besvarelse nederst på denne siden.
 På seminarene knyttet til temaet har du tilfelle å jobbe med oppgavene sammen med dine studentkolleger. Forelesere på kurset vil være tilstede for å svare på spørsmål. 
