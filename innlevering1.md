@@ -3,15 +3,23 @@
 <!-- Gjør endringer under her -->
 
 # Flervalgstest 1
-### <span style="color:OrangeRed;"> Frist: 6. september 2022 kl 23:59 </span>
+
+### <span style="color:OrangeRed;"> Frist: 1. september kl 16:00 </span>
+
 **Sett inn introtekst)
+
 **Førberedelser og støtte:**
 
 Litteratur:
+
 Barr. Kapittel 1 og 2
+
 Boeri og van Ours. Kapittel 1
+
 NOU 2021:9. Kapittel 3
+
 [Forelesningsnotater](forelesninger.md#f_t1)
+
 [Videoer](video.md#v_t1)
 
  ## Lenke til flervalgstest
