@@ -22,7 +22,7 @@ Undervisningen på SOK-2008 består av fysiske forelesninger, video-forelesninge
 | 35 |       |  | | | |
 | 36 |       | F2.1 - [Tema 2](temaer.md#tema2) | F2.2   | S2.1   | |
 | 37 |       | F2.3    | F2.4   | S2.2   | |
-| 38 |       |US - [[Utfordring 1](innlevering2.md)| | | Frist - [Utfordring 1](innlevering2.md)|
+| 38 |       |US - [Utfordring 1](innlevering2.md)| | | Frist - [Utfordring 1](innlevering2.md)|
 | 39 |       | F3.1 - [Tema 3](temaer.md#tema3)| F3.2 | | |
 | 40 |       | F3.3    |         |       | S3.1 <br> Frist - [Flervalgstest](innlevering3.md) |
 | 41 | US - [Utfordring 2](innlevering3.md) | | | |  |
