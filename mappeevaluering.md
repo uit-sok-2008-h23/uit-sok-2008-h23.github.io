@@ -30,7 +30,7 @@ Hver innleveringsoppgave leveres som en pdf-fil i en individuell mappe på Canva
 
 [Se her](howtogithub.md) for å lese mer om hvordan man leverer på GitHub.
 
-Bruk følgende navn på: SOK-2008-h2023-oppgaveX, der "X" er numret på innleveringen (1,2,3,4,5,6).
+Bruk følgende navn på: SOK-2008-h2023-utfX, der "X" er numret på innleveringen (1,2,3).
 
 Innleveringene skal skje individuelt. 
 
