@@ -17,8 +17,7 @@ Dette temaet gir en introduksjon til den nordiske modellen, og til arbeidsmarked
 | ----------- |------- |----- | 
 | F1.1 | Introduksjon til den nordiske modellen | NOU 2021:9 kapittel 3 |
 | F1.2 | Velferdsstaten - filosofi og finansiering | Barr. Kapittel 1 og 2 |
-| F1.3 | Introduksjon til arbeidsmarkedsøkonomi 1 - Arbeidstilbud | Boeri og van Ours. Kapittel 1 |
-| F1.4 | Introduksjon til arbeidsmarkedsøkonomi 2 - Etterspørsel på arbeid | Boeri og van Ours. Kapittel 1 |
+| F1.3 | Introduksjon til arbeidsmarkedsøkonomi 1 | Boeri og van Ours. Kapittel 1 |
 
 ### [Lenker til forelesningsnotater](forelesninger.md#f_t1) (oppdateres fortløpende)
 
