@@ -25,9 +25,5 @@ Her finner du forelesningsnotater lenket til Tema 4
 ## Forelesninger [Tema 5](temaer.md#tema5)<a name="f_t5"></a>
 Her finner du forelesningsnotater lenket til Tema 5
 
-
-## Instruksjon til muntlig eksamen
-* <a href="Assets/Instruks_muntlig_eksamen2023.pdf"> Instruksjon til muntlig eksamen</a>
-
 ## Feedback seminar
 Her vil vi legge opp notater fra feedback-seminarene
