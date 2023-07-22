@@ -2,7 +2,7 @@
 {% include navbar.html %} <!-- Kode for navigasjonsmeny. Se navbar.html for å gjøre endringer. -->
 <!-- Gjør endringer under her -->
 
-# Innlevering 1 (flervalgstest)
+# Flervalgstest 1
 ### <span style="color:OrangeRed;"> Frist: 6. september 2022 kl 23:59 </span>
 **Sett inn introtekst)
 **Førberedelser og støtte:**
