@@ -4,13 +4,16 @@
 
 # Flervalgstest 2
 ### <span style="color:OrangeRed;"> Frist: 6. oktober kl 16.00 </span>
-**Sett inn introtekst)
+
+**Sett inn introtekst**
+
 **Førberedelser og støtte:**
 
 Litteratur:
-Barr. Kapittel 3, 9-11
-Boeri og van Ours. Kapittel 2-3, 5 og 7
-NOU 2021:9. 
+
+- Barr. Kapittel 3, 9-11
+- Boeri og van Ours. Kapittel 2-3, 5 og 7
+- NOU 2021:9. 
 
 [Forelesningsnotater tema 2](forelesninger.md#f_t2)
 
