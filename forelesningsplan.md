@@ -8,17 +8,23 @@
 Undervisningen på SOK-2008 består av fysiske forelesninger, video-forelesninger og fysiske seminarer. 
 
 **NB! Datoer for fysiske forelesninger og seminar er preliminær og kan endres.** For oppdatert skjema, se [Timeplan.uit.no](https://timeplan.uit.no/emne_timeplan.php?sem=23h&module[]=SOK-2008-1#week-33)
-* F = Forelesing
-* S = Seminar
-* US = Utfodringsseminar
-* FS = Feedbackseminar
-* VF = Videoforelesning
-* Feedback = Feedback på innleveringer (seminar)
+* Undervisningstype:
+  * F = Forelesing
+  * S = Seminar
+  * US = Utfodringsseminar
+  * FS = Feedbackseminar
+  * VF = Videoforelesning
+
+* Litteratur:
+  * B = Barr, N. The economics of the welfare state
+  * BO = Boeri, T. og van Ours, J. The economics of imperfect labor markets
+  * NOU 2011:7 = Norges offentlige utredninger (NOU) 2021:9 - Den norske modellen og fremtidens arbeidsliv — Utredning om tilknytningsformer og virksomhetsorganisering
+  * NOU 2021:9 = Norges offentlige utredninger (NOU) 2011:7 - Velferd og migrasjon
 
 | Uke | Mandag | Tirsdag | Onsdag | Torsdag | Fredag |
 | ---|------ | ------- | ------ | ------- | ------ |
-| 33 |       |         | F - Intro til kurset | F1.1 - [Tema 1](temaer.md#tema1) | |
-| 34 |       | F1.2    | F1.3   | S1.1   | Frist - [Flervalgstest 1](innlevering1.md) |
+| 33 |       |         | F - Intro til kurset | F1.1 - [Tema 1](temaer.md#tema1) <br> NOU 2021:9| |
+| 34 |       | F1.2 <br> Barr k. 1 - 2   | F1.3  <br> BO k. 1 | S1.1   | Frist - [Flervalgstest 1](innlevering1.md) |
 | 35 |       |  | | | |
 | 36 |       | F2.1 - [Tema 2](temaer.md#tema2) | F2.2   | S2.1   | |
 | 37 |       | F2.3    | F2.4   | S2.2   | |
