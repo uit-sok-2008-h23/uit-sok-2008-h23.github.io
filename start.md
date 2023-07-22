@@ -10,12 +10,9 @@ Formålet med kurset SOK-2008 «Den Nordiske modellen» er å gi innsikt i sentr
 Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
 Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
-- [Forelesningsplan](forelesningsplan.html){:target="blank"}
-- [Seminarplan](seminarplan.html){:target="blank"}
-- [Innleveringsplan](innleveringer.html){:target="blank"}   
-
-
-[Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
+- [Forelesnings- og seminarplan](forelesningsplan.html){:target="blank"}
+- [Innleveringsplan](innleveringer.html){:target="blank"}
+- [Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
 
 ## Faglærerinfo
 - <strong>[Andrea Mannberg](https://uit.no/ansatte/andrea.mannberg)</strong> (Fagansvar) - professor i samfunnsøkonomi
@@ -49,7 +46,7 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:
 
 Eksaminasjonen på kurset består av to deler: en mappeevaluering og en muntlig eksamen. De to delene teller likt til sluttkarakter. For å bestå kurset må du ha godkjent karakter på begge delene. Kurset har mappeevaluering.   
 
-Frister, oppgaver og ressurser til mappeevalueringen finnes i [mappevaluering](mappeevaluering.md){:target="blank"}. 
+Frister, oppgaver og ressurser til mappeevalueringen finnes i [mappevaluering](mappeevaluering.html){:target="blank"}. 
 
 Informasjon om den muntlige eksamen finnes i [muntlig eksamen](muntligeksamen.html){:target="blank"}. 
 
