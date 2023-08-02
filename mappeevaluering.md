@@ -39,7 +39,7 @@ Enhver innlevering kan gi 0 til 2 poeng. Totalt kan altså innleveringene gi 12 
 
 ### Poeng til flervalgstest
 
-Poengen til **flervalgstestene** er basert på prosent antall riktige svar. Mer spesifikkt blir blir poenget beregnet ved bruk av følgende regel: **$\frac{(R-0.25\cdot G)}{(T)}\cdot 2$**, der $R$ er antall riktige svar, $F$ er feilsvar, og $T$ er totalt antall spørsmål i testen. Poenget blir avrundet til 1 desimal.
+Poengen til **flervalgstestene** er basert på prosent antall riktige svar. Mer spesifikkt blir blir poenget beregnet ved bruk av følgende regel: **$\frac{(R-0.25\cdot G)}{T}\cdot 2$**, der $R$ er antall riktige svar, $F$ er feilsvar, og $T$ er totalt antall spørsmål i testen. Poenget blir avrundet til 1 desimal.
 
 Alle spørsmål på flervalgstestene på sok-2008 har 4 svarsalternativer. Sannsynligheten for å svare riktig av ren tilfeldighet er derved 25%. Regeln som blir brukt til å beregne poeng bestraffer derfor feilsvar med 25%. Dersom du ikke aner hva riktig svar er på et spørsmål, er det altså bedre å ikke svare enn å gjete. 
 
