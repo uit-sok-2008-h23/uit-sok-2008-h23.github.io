@@ -3,13 +3,11 @@
 <!-- Gjør endringer under her -->
 
 # Mappeevaluering
-Mappeevalueringen består av 6 innleveringer. Det er to type innleveringer: flervalgstest (multiple choice) og skriftlige innleveringer (utfordringer). Hver innlevering er knyttet til en eller flere moduler (eller tema) i kurset, og til spesielle kapitler i pensumbøkene.
+Mappeevalueringen består av 6 innleveringer. Det er to type innleveringer: **flervalgstest** (multiple choice) og **utfordringer** (skriftlige innleveringer). Hver innlevering er knyttet til en eller flere moduler (eller tema) i kurset, og til spesielle kapitler i pensumbøkene.
 
 Enhver innlevering kan gi 0 til 2 poeng. Totalt kan altså innleveringene gi 12 poeng (6 innleveringer à 2 poeng). Karakteren på mappen avhenger total poeng på alle innleveringer. 
 
-## Innleveringer og frister <a name="i_t1_6"></a> <a name="frister"></a>
-
-**Klikk på lenkene her nede for å finne innleveringsoppgavene**.
+**Frister** (klikk på lenkene her nede for å finne innleveringsoppgavene).
 
 | **Innlevering** | **Frist** |
 | ------------- |------- |
