@@ -88,7 +88,7 @@ Dersom du bruker kunstig intelligens for å løse oppgaver, skal dette gjøres r
 Det er mulig å skrive ligninger i de fleste ordbehandlingsprogrammer. I word velger du «insert» og deretter «equation». Du får da opp en boks i teksten og en meny med symboler og funksjoner. Et tips er at «underscore» etter et tegn gir subscript hvis du trykker på mellomslag etterpå , og tegnet «’» gir superscript. 
 
 Du finner flere tips og triks her:
-* [Kort-kommandoer til Microsoft Equation Editor[(https://mathiho.sitehost.iu.edu/doc/equation-editor-shortcut-commands.pdf)
+* [Kort-kommandoer til Microsoft Equation Editor](https://mathiho.sitehost.iu.edu/doc/equation-editor-shortcut-commands.pdf)
 
 #### Grafer
 Det går å lage grafer ved bruk av en rekke verktøy. Vår erfaring er at Power-point er bedre enn Word. Når du har laget en graf i Power-point kan du enten lagre denne som et bilde ved å høyre-klikke på den, eller kopiere den direkte og lime inn den som et bilde (lime inn spesial) i Word.
