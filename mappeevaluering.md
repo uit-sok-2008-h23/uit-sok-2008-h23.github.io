@@ -34,16 +34,16 @@ Bruk følgende navn på: SOK-2008-h2023-utfX, der "X" er numret på innleveringe
 
 Innleveringene skal skje individuelt. 
 
-## Evaluering av innleveringer
+## Evaluering av mappeoppgaver
 Enhver innlevering kan gi 0 til 2 poeng. Totalt kan altså innleveringene gi 12 poeng (6 innleveringer à 2 poeng). Karakteren på mappen avhenger total poeng på alle innleveringer. 
 
 ### Poeng til flervalgstest
 
-Poengen til **flervalgstestene** er basert på prosent antall riktige svar. Mer spesifikkt blir blir poenget beregnet ved bruk av følgende regel: **$\frac{(R-0.25\cdot G)}{T}\cdot 2$**, der $R$ er antall riktige svar, $F$ er feilsvar, og $T$ er totalt antall spørsmål i testen. Poenget blir avrundet til 1 desimal.
+Poengen til flervalgstestene er basert på prosent antall riktige svar. Mer spesifikkt blir blir poenget beregnet ved bruk av følgende regel: **$\frac{(R-0.25\cdot F)}{T}\cdot 2$**, der $R$ er antall riktige svar, $F$ er feilsvar, og $T$ er totalt antall spørsmål i testen. Poenget blir avrundet til 1 desimal.
 
 Alle spørsmål på flervalgstestene på sok-2008 har 4 svarsalternativer. Sannsynligheten for å svare riktig av ren tilfeldighet er derved 25%. Regeln som blir brukt til å beregne poeng bestraffer derfor feilsvar med 25%. Dersom du ikke aner hva riktig svar er på et spørsmål, er det altså bedre å ikke svare enn å gjete. 
 
-### Evaluering av utfordringer (skriftlige innleveringer)
+### Poeng til utfordringer (skriftlige innleveringer)
 Utfordringene blir bedømt i henhold til regelen i Tabell 2. Det vil være mulig å få 0.5 og 1.5 poeng på utfordringene.
 
 **NB: Hver enkel av de 3 utfordingene består av flere deloppgaver. Envher av disse deloppgaver må besvares. Hvis en av deloppgavene ikke er besvart, eller er besvart svært ufullstendig eller felaktig, er det fullt mulig å få null poeng på innleveringen.**
