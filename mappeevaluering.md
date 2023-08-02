@@ -35,11 +35,16 @@ Bruk følgende navn på: SOK-2008-h2023-utfX, der "X" er numret på innleveringe
 Innleveringene skal skje individuelt. 
 
 ## Evaluering av innleveringer
-Enhver innlevering kan gi 0 til 2 poeng. Totalt kan altså innleveringene gi 12 poeng (6 innleveringer à 2 poeng). 
+Enhver innlevering kan gi 0 til 2 poeng. Totalt kan altså innleveringene gi 12 poeng (6 innleveringer à 2 poeng). Karakteren på mappen avhenger total poeng på alle innleveringer. 
 
-Poengen til **flervalgstestene** blir satt etter regelen: **$\frac{(R-0.25\cdot T)}{(0.75\cdot T)}\cdot 2$**, der $R$ er antall riktige svar, og $T$ er totalt antall spørsmål i testen. Poenget blir avrundet til 1 desimal. Regelen innebærer at, dersom testen har 100 spørsmål, må du ha 61 riktige svar for å få 1 poeng på testen. Årsaken til at du må ha mer enn 50% riktige svar for å få 1 poeng, er at det går å svare riktig av ren tilfeldighet på flervalgstester. Alle spørsmål på flervalgstestene på sok-2008 har 4 svarsalternativer. Sannsynligheten for å svare riktig av ren tilfeldighet er derved 25%. Regelen korrigerer for dette. 
+### Poeng til flervalgstest
 
-**Utfordringene blir bedømt** i henhold til regelen i Tabell 2.
+Poengen til **flervalgstestene** er basert på prosent antall riktige svar. Mer spesifikkt blir blir poenget beregnet ved bruk av følgende regel: **$\frac{(R-0.25\cdot G)}{(T)}\cdot 2$**, der $R$ er antall riktige svar, $F$ er feilsvar, og $T$ er totalt antall spørsmål i testen. Poenget blir avrundet til 1 desimal.
+
+Alle spørsmål på flervalgstestene på sok-2008 har 4 svarsalternativer. Sannsynligheten for å svare riktig av ren tilfeldighet er derved 25%. Regeln som blir brukt til å beregne poeng bestraffer derfor feilsvar med 25%. Dersom du ikke aner hva riktig svar er på et spørsmål, er det altså bedre å ikke svare enn å gjete. 
+
+### Evaluering av utfordringer (skriftlige innleveringer)
+Utfordringene blir bedømt i henhold til regelen i Tabell 2. Det vil være mulig å få 0.5 og 1.5 poeng på utfordringene.
 
 **NB: Hver enkel av de 3 utfordingene består av flere deloppgaver. Envher av disse deloppgaver må besvares. Hvis en av deloppgavene ikke er besvart, eller er besvart svært ufullstendig eller felaktig, er det fullt mulig å få null poeng på innleveringen.**
 
@@ -51,11 +56,13 @@ Poengen til **flervalgstestene** blir satt etter regelen: **$\frac{(R-0.25\cdot 
 | 1 | Tilstrekkelig godt gjennomført. Alle spørsmål er besvarte eller så er nesten alle spørsmål besvarte OG det gis en god gjennomgang av problemer med ubesvarte oppgaver. Det går å følge resonnementene. Det gis økonomisk intuisjon. Det kan finnes små feil i matematikken men ikke store feil. Kode er lastet opp på Github og lenket til i oppgaven. Oppgaven er ryddig skreven. |
 | 0 | Ikke tilstrekkelig godt gjennomført. Ikke alle spørsmål er besvarte og studenten gir ikke en god gjennomgang av problemer med ubesvarte oppgaver ELLER det er svært vanskelig å følge resonnementene i oppgaven ELLER det gis ikke økonomisk intuisjon ELLER det finnes store feil i matematikken, og/eller den økonomiske intuisjonen. |
 
-**Det vil være mulig å få 0.5 og 1.5 poeng på utfordringene.** 
 
-Det er tillatt å arbeide med å løse oppgavene sammen med andre. Hver enkelt student skal likvel skrive og levere inn sin utfordring individuelt. Det er ikke lov å levere inn helt identiske oppgaver. Vi bruker URKUND for å sjekke for plagiering. Vi er bevisst på at oppgavene vil være relativt lik og vil ta høyde for dette når vi evaluerer resultatene fra URKUND. 
+**Plagiat og juks**
 
-Karakteren på mappen avhenger total poeng alle innleveringer. 
+Det er tillatt å arbeide med oppgavene sammen med andre. Hver enkelt student skal likvel skrive og levere inn sine utfordringer individuelt. Med andre ord må hver enkelt student produsere sin egen tekst, figurer, koder og så videre. Det er ikke lov å levere inn helt eller nesten identiske oppgaver. Det er altså ikke lov å kun bytte ut noen ord i sin innlevering. Vi bruker URKUND for å sjekke for plagiering. Vi er bevisst på at oppgavene vil være relativt lik og vil ta høyde for dette når vi evaluerer resultatene fra URKUND. 
+
+Dersom du bruker kunstig intelligens for å løse oppgaver, skal dette gjøres rede for nøye i oppgaven. Du må oppgi de spørsmål du stilte til den kunstige intelligensen, hvilket svar du fikk, og i hvilken grad du endret svaret/koden fra boten. Regegjørelsen skal leveres som et appendiks til oppgaven. 
+
 
 ## Tips og triks for hvordan du skriver en god besvarelse
 
