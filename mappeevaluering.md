@@ -3,12 +3,9 @@
 <!-- Gjør endringer under her -->
 
 # Mappeevaluering
-Mappeevalueringen består av 6 innleveringer. Hver innlevering er knyttet til en modul (eller tema) i kurset, og til spesielle kapitler i pensumbøkene. 
-Noen av oppgavene er matematiske, andre er mer rettet mot diskusjon, og i noen av dem skal studenten bruke data og statistisk analyse. 
-For alle oppgaver gjelder at du må gi økonomisk intuisjon (forklaring) til dine resultater. 
+Mappeevalueringen består av 6 innleveringer. Det er to type innleveringer: flervalgstest (multiple choice) og skriftlige innleveringer (utfordringer). Hver innlevering er knyttet til en eller flere moduler (eller tema) i kurset, og til spesielle kapitler i pensumbøkene.
 
-Etter hver innlevering vil vi avsette tid til tilbakemelding på innleveringene, se [forelesningsplanen](forelesningsplan.md)
-
+Enhver innlevering kan gi 0 til 2 poeng. Totalt kan altså innleveringene gi 12 poeng (6 innleveringer à 2 poeng). Karakteren på mappen avhenger total poeng på alle innleveringer. 
 
 ## Innleveringer og frister <a name="i_t1_6"></a> <a name="frister"></a>
 
@@ -22,6 +19,16 @@ Etter hver innlevering vil vi avsette tid til tilbakemelding på innleveringene,
 | [Innlevering 4 - Utfordring 2](innlevering4.md) | <span style="color:OrangeRed;">20. oktober 16:00</span> |
 | [Innlevering 5 - Utfordring 3](innlevering5.md) | <span style="color:OrangeRed;">3.   november 16:00</span> |
 | [Innlevering 6 - Flervalgstest](innlevering6.md) | <span style="color:OrangeRed;">17.  november 16:00</span>  |
+
+## Flervalgstester (innlevering 1, 3, og 6)
+
+## Utfordringer (innlevering 2, 4, og 5)
+
+Noen av oppgavene er matematiske, andre er mer rettet mot diskusjon, og i noen av dem skal studenten bruke data og statistisk analyse. 
+For alle oppgaver gjelder at du må gi økonomisk intuisjon (forklaring) til dine resultater. 
+
+Etter hver innlevering vil vi avsette tid til tilbakemelding på innleveringene, se [forelesningsplanen](forelesningsplan.md)
+
 
 ## Slik leverer du:
 Alle innleveringer er lagt opp som "oppgaver" i Canvas. 
