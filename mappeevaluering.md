@@ -7,6 +7,10 @@ Mappeevalueringen består av 6 innleveringer. Det er to type innleveringer: **fl
 
 Enhver innlevering kan gi 0 til 2 poeng. Totalt kan altså innleveringene gi 12 poeng (6 innleveringer à 2 poeng). Karakteren på mappen avhenger total poeng på alle innleveringer. 
 
+Innleveringene skal skje individuelt. 
+
+Alle innleveringer har frist på en fredag kl 16:00.
+
 **Frister** (klikk på lenkene her nede for å finne innleveringsoppgavene).
 
 | **Innlevering** | **Frist** |
@@ -19,36 +23,34 @@ Enhver innlevering kan gi 0 til 2 poeng. Totalt kan altså innleveringene gi 12 
 | [Innlevering 6 - Flervalgstest](innlevering6.md) | <span style="color:OrangeRed;">17.  november 16:00</span>  |
 
 ## Flervalgstester (innlevering 1, 3, og 6)
+Flervalgstestene vil innholde 10 - 20 spørsmål. Hvert spørsmål vil ha fire svarsalternativer, der et svarsalternativ er riktig. Spørsmål og feilsvar blir trukket tilfeldig. Med andre ord vil ulike studenter kunne få ulike spørsmål, og ulike svarsalternativer. 
 
-## Utfordringer (innlevering 2, 4, og 5)
+Hvert flervalgstest vil finnes tilgjengelig under 2 dager. Du kan altså velge når du tar testen. Når du vel har startet testen vil du ha 60 minutter på deg til å svare. Det vil ikke være mulig å ta én test mer enn én gang.
 
-Noen av oppgavene er matematiske, andre er mer rettet mot diskusjon, og i noen av dem skal studenten bruke data og statistisk analyse. 
-For alle oppgaver gjelder at du må gi økonomisk intuisjon (forklaring) til dine resultater. 
+### Innlevering av flervalgstester
+Flervalgstestene vil enten bli gjennomført i Canvas, eller i Wiseflow. Vi vil gi beskjed om dette seinere. 
 
-Etter hver innlevering vil vi avsette tid til tilbakemelding på innleveringene, se [forelesningsplanen](forelesningsplan.md)
-
-
-## Slik leverer du:
-Alle innleveringer er lagt opp som "oppgaver" i Canvas. 
-Flervalgstester blir gjennomført digitalt i Canvas. 
-Hver innleveringsoppgave leveres som en pdf-fil i en individuell mappe på Canvas. Eventuell kode leveres som pdf-fil på Canvas (gjerne i samme pdf-fil som løsningen på oppgaven) og lastes opp til GitHub. 
-
-[Se her](howtogithub.md) for å lese mer om hvordan man leverer på GitHub.
-
-Bruk følgende navn på: SOK-2008-h2023-utfX, der "X" er numret på innleveringen (1,2,3).
-
-Innleveringene skal skje individuelt. 
-
-## Evaluering av mappeoppgaver
-Enhver innlevering kan gi 0 til 2 poeng. Totalt kan altså innleveringene gi 12 poeng (6 innleveringer à 2 poeng). Karakteren på mappen avhenger total poeng på alle innleveringer. 
-
-### Poeng til flervalgstest
-
+### Evaluering av flervalgstester
 Poengen til flervalgstestene er basert på prosent antall riktige svar. Mer spesifikkt blir blir poenget beregnet ved bruk av følgende regel: **$\frac{(R-0.25\cdot F)}{T}\cdot 2$**, der $R$ er antall riktige svar, $F$ er feilsvar, og $T$ er totalt antall spørsmål i testen. Poenget blir avrundet til 1 desimal.
 
 Alle spørsmål på flervalgstestene på sok-2008 har 4 svarsalternativer. Sannsynligheten for å svare riktig av ren tilfeldighet er derved 25%. Regeln som blir brukt til å beregne poeng bestraffer derfor feilsvar med 25%. Dersom du ikke aner hva riktig svar er på et spørsmål, er det altså bedre å ikke svare enn å gjete. 
 
-### Poeng til utfordringer (skriftlige innleveringer)
+## Utfordringer (innlevering 2, 4, og 5)
+Hver utfordring vil ha flere deloppgaver. Noen av oppgavene er matematiske, andre er mer rettet mot diskusjon, og i noen av dem skal studenten bruke data og statistisk analyse. 
+For alle oppgaver gjelder at du må gi økonomisk intuisjon (forklaring) til dine resultater. 
+
+Etter hver innlevering vil vi avsette tid til tilbakemelding på innleveringene, se [forelesningsplanen](forelesningsplan.md)
+
+## Slik leverer du inn dine utfordringer:
+Alle utfordringer skal leveres i Wiseflow. Kode og redegjørelser for bruk av kunstig intelligens leveres som appendiks i oppgaven (i samme dokument). Det er lov å legge inn en lenke til kode på GitHub, gitt at du har gitt oss tilgang til koden.  **spørsmål: problemer ved klage - sensor har ikke tilgang til kode?**
+
+[Se her](howtogithub.md) for å lese mer om hvordan man leverer på GitHub. **spørsmål: funker dette ved levering i WiseFlow?**
+
+Bruk følgende navn på: SOK-2008-h2023-utfX, der "X" er numret på innleveringen (1,2,3).
+
+Innleveringene skal skje individuelt. 
+ 
+### Evaluering av utfordringer
 Utfordringene blir bedømt i henhold til regelen i Tabell 2. Det vil være mulig å få 0.5 og 1.5 poeng på utfordringene.
 
 **NB: Hver enkel av de 3 utfordingene består av flere deloppgaver. Envher av disse deloppgaver må besvares. Hvis en av deloppgavene ikke er besvart, eller er besvart svært ufullstendig eller felaktig, er det fullt mulig å få null poeng på innleveringen.**
@@ -62,16 +64,16 @@ Utfordringene blir bedømt i henhold til regelen i Tabell 2. Det vil være mulig
 | 0 | Ikke tilstrekkelig godt gjennomført. Ikke alle spørsmål er besvarte og studenten gir ikke en god gjennomgang av problemer med ubesvarte oppgaver ELLER det er svært vanskelig å følge resonnementene i oppgaven ELLER det gis ikke økonomisk intuisjon ELLER det finnes store feil i matematikken, og/eller den økonomiske intuisjonen. |
 
 
-**Plagiat og juks**
+### Plagiat og juks
 
 Det er tillatt å arbeide med oppgavene sammen med andre. Hver enkelt student skal likvel skrive og levere inn sine utfordringer individuelt. Med andre ord må hver enkelt student produsere sin egen tekst, figurer, koder og så videre. Det er ikke lov å levere inn helt eller nesten identiske oppgaver. Det er altså ikke lov å kun bytte ut noen ord i sin innlevering. Vi bruker URKUND for å sjekke for plagiering. Vi er bevisst på at oppgavene vil være relativt lik og vil ta høyde for dette når vi evaluerer resultatene fra URKUND. 
 
 Dersom du bruker kunstig intelligens for å løse oppgaver, skal dette gjøres rede for nøye i oppgaven. Du må oppgi de spørsmål du stilte til den kunstige intelligensen, hvilket svar du fikk, og i hvilken grad du endret svaret/koden fra boten. Regegjørelsen skal leveres som et appendiks til oppgaven. 
 
 
-## Tips og triks for hvordan du skriver en god besvarelse
+### Tips og triks for hvordan du skriver en god besvarelse
 
-### Generelle tips
+#### Generelle tips
 
 1. Skriv kortfattet og tydelig
 2. Gå igjennom språket. Oppgaven skal skrives på godt akademisk språk, ikke i taleform.
@@ -82,23 +84,23 @@ Dersom du bruker kunstig intelligens for å løse oppgaver, skal dette gjøres r
 7. Forklare dine ligninger og utledninger. Det er viktig at det går å følge dine utledninger og beregninger. 
 8. Gi alltid økonomisk intuisjon (forklaring til dine svar). Det å skrive "Kurven skifter og vi går ifra A til B" er ikke tilstrekkelig. Et svar som gir økonomisk intuisjon forklarer effekten i økonomiske termer, f eks.; "Hvis innvandringen øker vil dette føre til at mengden arbeidere som er villige til å jobbe til en gitt timelønn øker, arbeidstilbudet ($L^s$) øker. Ved likevektslønna $w_0$ finnes det nå arbeidere som ønsker jobb men som ikke har jobb. Dette fører til en press nedåt på lønna. Når lønna synker finnes det flere bedrifter som er villige å ansette. Sysselsettingen øker. Den nye likevekts lønna gis av $w_1$. Sysselsettingen i den nye likvekten gis av $L_1$" 
 
-### Ligninger
+#### Ligninger
 Det er mulig å skrive ligninger i de fleste ordbehandlingsprogrammer. I word velger du «insert» og deretter «equation». Du får da opp en boks i teksten og en meny med symboler og funksjoner. Et tips er at «underscore» etter et tegn gir subscript hvis du trykker på mellomslag etterpå , og tegnet «’» gir superscript. 
 
 Du finner flere tips og triks her:
 * [Kort-kommandoer til Microsoft Equation Editor[(https://mathiho.sitehost.iu.edu/doc/equation-editor-shortcut-commands.pdf)
 
-### Grafer
+#### Grafer
 Det går å lage grafer ved bruk av en rekke verktøy. Vår erfaring er at Power-point er bedre enn Word. Når du har laget en graf i Power-point kan du enten lagre denne som et bilde ved å høyre-klikke på den, eller kopiere den direkte og lime inn den som et bilde (lime inn spesial) i Word.
 
 I noen oppgaver på kurset vil du lage grafer i R ved bruk av empiriske data. Når du laget en graf velger du først «eksportere» og deretter enten «save as image» eller «save as pdf». Du kan deretter lime in bildet i ditt Word-dokument. 
 
-### Tabeller
+#### Tabeller
 
 Det går å lage tabeller ved bruk av en rekke verktøy, f.eks. Excel og R. Det går å kopiere tabeller fra Excel og R og lime inn i Word. Hvis du er flink i f eks LaTeX så går det å skrive kode i R som lager TeX filer. 
 
 
-### Referanser
+#### Referanser
  Hvis du bruker materiale utenfor pensum skal du bruke referanser, både i teksten, og i en referanseliste. Referanser i tekst skal inneholde etternavn på forfatter og år. Hvis det er flere enn to forfatter er det lov å bruke «et al». Det finnes to forskjellige måten å skrive referanser i tekst. Iblant henviser vi til en studie i teksten, f eks at Acemoglu et al (2001) fant at land en signifikant lenke mellom kolonial historie og nåværende økonomisk vekst. Et annet måte er å skrive at det ser ut å va en lenke mellom kolonial historie og nåværende økonomisk vekst (Acemoglu et al, 2001). Lengst ned i dokumentet skriver du en referanseliste. I Tabell 2 her nede ser du hvordan du refererer til ulike typer av skrevet materiale. 
  
  **Tabell 2.** Referanser
