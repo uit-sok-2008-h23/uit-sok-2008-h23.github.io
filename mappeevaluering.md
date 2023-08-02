@@ -18,7 +18,7 @@ Etter hver innlevering vil vi avsette tid til tilbakemelding på innleveringene,
 | ------------- |------- |
 | [Innlevering 1 - Flervalgstest](innlevering1.md) | <span style="color:OrangeRed;">1.  september 16:00</span>  |
 | [Innlevering 2 - Utfordring 1](innlevering2.md) | <span style="color:OrangeRed;">22. september 16:00</span> |
-| [Innlevering 3 - Flervalgstest](innlevering3.md) | <span style="color:OrangeRed;">6.  oktober 16:00</span> |
+| [Innlevering 3 - Flervalgstest](innlevering3.md) | <span style="color:OrangeRed;">13.  oktober 16:00</span> |
 | [Innlevering 4 - Utfordring 2](innlevering4.md) | <span style="color:OrangeRed;">20. oktober 16:00</span> |
 | [Innlevering 5 - Utfordring 3](innlevering5.md) | <span style="color:OrangeRed;">3.   november 16:00</span> |
 | [Innlevering 6 - Flervalgstest](innlevering6.md) | <span style="color:OrangeRed;">17.  november 16:00</span>  |
