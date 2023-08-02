@@ -74,6 +74,7 @@ Dersom du bruker kunstig intelligens for å løse oppgaver, skal dette gjøres r
 ### Tips og triks for hvordan du skriver en god besvarelse
 
 #### Generelle tips
+**SPML: skrive om quarto???**
 
 1. Skriv kortfattet og tydelig
 2. Gå igjennom språket. Oppgaven skal skrives på godt akademisk språk, ikke i taleform.
