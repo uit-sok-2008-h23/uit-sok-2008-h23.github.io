@@ -3,7 +3,7 @@
 <!-- Gjør endringer under her -->
 
 # Flervalgstest 2
-### <span style="color:OrangeRed;"> Frist: 6. oktober kl 16.00 </span>
+### <span style="color:OrangeRed;"> Frist: 13. oktober kl 16.00 </span>
 
 **Sett inn introtekst**
 
