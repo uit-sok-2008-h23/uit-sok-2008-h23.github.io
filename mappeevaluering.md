@@ -74,7 +74,6 @@ Dersom du bruker kunstig intelligens for å løse oppgaver, skal dette gjøres r
 ### Tips og triks for hvordan du skriver en god besvarelse
 
 #### Generelle tips
-**SPML: skrive om quarto???**
 
 1. Skriv kortfattet og tydelig
 2. Gå igjennom språket. Oppgaven skal skrives på godt akademisk språk, ikke i taleform.
@@ -85,14 +84,17 @@ Dersom du bruker kunstig intelligens for å løse oppgaver, skal dette gjøres r
 7. Forklare dine ligninger og utledninger. Det er viktig at det går å følge dine utledninger og beregninger. 
 8. Gi alltid økonomisk intuisjon (forklaring til dine svar). Det å skrive "Kurven skifter og vi går ifra A til B" er ikke tilstrekkelig. Et svar som gir økonomisk intuisjon forklarer effekten i økonomiske termer, f eks.; "Hvis innvandringen øker vil dette føre til at mengden arbeidere som er villige til å jobbe til en gitt timelønn øker, arbeidstilbudet ($L^s$) øker. Ved likevektslønna $w_0$ finnes det nå arbeidere som ønsker jobb men som ikke har jobb. Dette fører til en press nedåt på lønna. Når lønna synker finnes det flere bedrifter som er villige å ansette. Sysselsettingen øker. Den nye likevekts lønna gis av $w_1$. Sysselsettingen i den nye likvekten gis av $L_1$" 
 
+#### Format
+Du velger selv i hvilket format du ønsker å lage oppgaven. Det er lov å bruke Word, eller andre standard ordbehandlingsprogrammer. Dersom du ønsker å skrive oppgaven i Quarto finner du støtte til dette [her](https://quarto.org/).
+
 #### Ligninger
 Det er mulig å skrive ligninger i de fleste ordbehandlingsprogrammer. I word velger du «insert» og deretter «equation». Du får da opp en boks i teksten og en meny med symboler og funksjoner. Et tips er at «underscore» etter et tegn gir subscript hvis du trykker på mellomslag etterpå , og tegnet «’» gir superscript. 
 
 Du finner flere tips og triks her:
 * [Kort-kommandoer til Microsoft Equation Editor](https://mathiho.sitehost.iu.edu/doc/equation-editor-shortcut-commands.pdf)
 
-#### Grafer
-Det går å lage grafer ved bruk av en rekke verktøy. Vår erfaring er at Power-point er bedre enn Word. Når du har laget en graf i Power-point kan du enten lagre denne som et bilde ved å høyre-klikke på den, eller kopiere den direkte og lime inn den som et bilde (lime inn spesial) i Word.
+#### Figurer og grafer
+Det går å lage figurer ved bruk av en rekke verktøy, f.eks Rstudio og Python. Det er lov å tegne figurer i ved bruk av f.eks Word eller Power-point. Vår erfaring er at Power-point er bedre enn Word. Når du har laget en graf i Power-point kan du enten lagre denne som et bilde ved å høyre-klikke på den, eller kopiere den direkte og lime inn den som et bilde (lime inn spesial) i Word.
 
 I noen oppgaver på kurset vil du lage grafer i R ved bruk av empiriske data. Når du laget en graf velger du først «eksportere» og deretter enten «save as image» eller «save as pdf». Du kan deretter lime in bildet i ditt Word-dokument. 
 
@@ -102,7 +104,7 @@ Det går å lage tabeller ved bruk av en rekke verktøy, f.eks. Excel og R. Det 
 
 
 #### Referanser
- Hvis du bruker materiale utenfor pensum skal du bruke referanser, både i teksten, og i en referanseliste. Referanser i tekst skal inneholde etternavn på forfatter og år. Hvis det er flere enn to forfatter er det lov å bruke «et al». Det finnes to forskjellige måten å skrive referanser i tekst. Iblant henviser vi til en studie i teksten, f eks at Acemoglu et al (2001) fant at land en signifikant lenke mellom kolonial historie og nåværende økonomisk vekst. Et annet måte er å skrive at det ser ut å va en lenke mellom kolonial historie og nåværende økonomisk vekst (Acemoglu et al, 2001). Lengst ned i dokumentet skriver du en referanseliste. I Tabell 2 her nede ser du hvordan du refererer til ulike typer av skrevet materiale. 
+Hvis du bruker materiale utenfor pensum skal du bruke referanser, både i teksten, og i en referanseliste. Referanser i tekst skal inneholde etternavn på forfatter og år. Hvis det er flere enn to forfatter er det lov å bruke «et al». Det finnes to forskjellige måten å skrive referanser i tekst. Iblant henviser vi til en studie i teksten, f eks at Acemoglu et al (2001) fant at land en signifikant lenke mellom kolonial historie og nåværende økonomisk vekst. Et annet måte er å skrive at det ser ut å va en lenke mellom kolonial historie og nåværende økonomisk vekst (Acemoglu et al, 2001). Lengst ned i dokumentet skriver du en referanseliste. I Tabell 2 her nede ser du hvordan du refererer til ulike typer av skrevet materiale. 
  
  **Tabell 2.** Referanser
  
