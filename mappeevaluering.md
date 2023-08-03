@@ -67,7 +67,7 @@ Det er tillatt å arbeide med oppgavene sammen med andre. Hver enkelt student sk
 ### Bruk av kunstig intelligens (KI)
 Hver innlevering **skal** innholde en deklarasjon om bruk av KI. Deklarasjonen skal settes inn i et appendiks til oppgaven. **Du må ha med deklarasjonen selv om du ikke har brukt KI**.
 
-Dersom du bruker kunstig intelligens for å løse oppgaven skal du oppgi hvilken KI du brukte. Du må også gjøre rede for de spørsmål du stilte til den KI:n, hvilket svar du fikk, og i hvilken grad du endret svaret/koden fra KI:n. Regegjørelsen skal leveres som et appendiks til oppgaven. Dersom du ikke gjør rede for ditt bruk av KI:n, vil oppdekket bruk ses som juks. 
+Dersom du bruker kunstig intelligens for å løse oppgaven skal du oppgi hvilken KI du brukte. Du må også gjøre rede for de spørsmål du stilte til KI:n, hvilket svar du fikk, og i hvilken grad du endret svaret/koden fra KI:n. Regegjørelsen skal leveres som et appendiks til oppgaven. Dersom du ikke gjør rede for ditt bruk av KI:n, vil oppdekket bruk ses som juks. Du er selv ansvarlig for å sjekke innholdet i besvarelsen fra KI-verktøyet (ikke alt er riktig!), og du må passe på at besvarelsen din flyter godt (det vil trekke ned dersom sensoren ser tydelige forskjeller mellom egen tekst og tekst som er generert av KI).
 
 ### Tips og triks for hvordan du skriver en god besvarelse
 
