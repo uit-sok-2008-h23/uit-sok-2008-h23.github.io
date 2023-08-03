@@ -43,7 +43,7 @@ I den andre delen vil du få spørsmål knyttet til **inneboende problemer som f
 * *Instruksjon*: For at den Nordiske modellen skal være bærekraftig må finansieringen av velferdsordningene sikres. Hva trengs for å få til denne finansieringen og hvilke trusler finns det mot finansieringen? Fokuser på økonomiske argumenter og teori i din besvarelse! 
 
 * Maks poeng: 5 poeng.
-* 
+* Tid: 10 minutter
 
 ## Regler
 Presentasjonen skal være muntlig. Det vil finnes en whiteboard og penner i rommet slik at dere kan tegne på tavla om det er behov for dette. 
@@ -64,9 +64,9 @@ Den muntlige eksamen kan maksimalt gi 12 poeng. Poengsettingen vil skje i henhol
 
 |   Poeng               | Karakter |Beskrivelse |
 | --------------------- |--------- | ----------- |
-| 9 - 12 poeng | A og B |Svært god presentasjon. Kandidatens klarer å gi utdypende svar på ALLE tre generelle spørsmålene og eventuelle oppfølgingsspørsmål uten støttespørsmål fra sensorene. Svarene dekker ALLE sentrale temaer og konklusjoner fra kurset og kandidaten viser at den har GOD økonomisk forståelse disse temaer og konklusjoner. I det tilfelle at svarene inneholder feil og mangler, er disse små og få. |
-| 5 - 9 poeng | C og D |Tilstrekkelig god presentasjon. Kandidaten klarer å gi svar på alle tre generelle spørsmålene og eventuelle oppfølgingsspørsmål med støttespørsmål fra sensorene. Svarene dekker DE FLESTE sentrale temaer og konklusjoner fra kurset og kandidaten viser at den har TILSTREKKELIG økonomisk forståelse for disse temaer og konklusjoner. Mangler og feil i besvarelsen er ikke av fundamental type.|
-| 3 - 4 poeng | E | Ikke tilstrekkelig god presentasjon. Kandidaten klarer ikke å besvare alle tre generelle spørsmål, eller klarer kun å svare med mange støttespørsmål fra sensorene. Besvarlesen mangler FLERE sentrale temaer og/eller konklusjoner ELLER Presentasjonen inneholder fundamentale feil. |
+| 9 - 12 poeng | A og B |Svært god presentasjon. Presentasjonen dekker alle sentrale temaer knyttet til de to hovedspørsmålene, og er i trå med økonomisk teori. OG Kandidaten klarer å svare på alle eller nesten alle spørsmål fra sensorene, uten hjelp. OG Svarene viser at kandidaten har svært god økonomisk forståelse for sentrale temaer og konklusjoner fra kurset. OG Dersom svarene inneholder feil og mangler, er disse små og få. |
+| 4 - 8 poeng | C og D |Tilstrekkelig god presentasjon. Presentasjonen dekker de fleste sentrale temaene knyttet til de to hovedspørsmålene, og er i trå med økonomisk teori. OG Kandidaten klarer å svare på de fleste spørsmålene fra sensorene. OG Svarene viser at kandidaten har GOD økonomisk forståelse for sentrale temaer og konklusjoner fra kurset. OG Mangler og feil i besvarelsen er ikke fundamentale.|
+| 0 - 3 poeng | E og F | Ikke tilstrekkelig god presentasjon. Presentasjonen mangler FLERE sentrale temaer knyttet til de to hovedspørsmålene. ELLER: Kandidaten KLARER IKKE å besvare spørsmål fra sensorene, eller klarer kun å svare med mye hjelp fra sensorene. ELLER: Svarene viser mangelfull økonomisk forståelse for sentrale temaer og konklusjoner fra kurset. Besvarlesen mangler flere sentrale temaer og/eller konklusjoner ELLER: Besvarelsen inneholder fundamentale feil. |
 
 
 
