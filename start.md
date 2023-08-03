@@ -7,6 +7,11 @@ Formålet med kurset SOK-2008 «Den Nordiske modellen» er å gi innsikt i sentr
 
 ## Kursplan  
 
+Undervisningen på SOK-2008 består av fysiske forelesninger, video-forelesninger og fysiske seminarer. 
+Forelesningene vil introdusere et tema. Videoforelesningene går igjennom teoretisk analyse (grafisk og matematisk). På seminarene vil vi jobbe med oppgaver knyttet til de forskjellige temaene. 
+
+Du velger selv når du tar del av videoforelesningene, men vi anbefaler at du ser på videoforelesningene som hører til et spesifikkt tema sammen med forelesningen på samme tema da vidoene vil hjelpe deg å løse oppgavene som blir brukt på seminarene og til å løse innleveringsoppgavene. 
+
 Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
 Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
