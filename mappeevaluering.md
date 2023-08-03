@@ -42,11 +42,7 @@ For alle oppgaver gjelder at du må gi økonomisk intuisjon (forklaring) til din
 Etter hver innlevering vil vi avsette tid til tilbakemelding på innleveringene, se [forelesningsplanen](forelesningsplan.md)
 
 ### Innlevering av utfordringer
-Alle utfordringer skal leveres i Wiseflow. Kode og redegjørelser for bruk av kunstig intelligens leveres som appendiks i oppgaven (i samme dokument). Det er lov å legge inn en lenke til kode på GitHub, gitt at du har gitt oss tilgang til koden.  **spørsmål: problemer ved klage - sensor har ikke tilgang til kode?**
-
-[Se her](howtogithub.md) for å lese mer om hvordan man leverer på GitHub. **spørsmål: funker dette ved levering i WiseFlow?**
-
-Bruk følgende navn på: SOK-2008-h2023-utfX, der "X" er numret på innleveringen (1,2,3).
+Alle utfordringer skal leveres i Wiseflow. Kode og redegjørelser for bruk av kunstig intelligens leveres som appendiks i oppgaven (enten i et separat eller i samme dokument). 
 
 Innleveringene skal skje individuelt. 
  
