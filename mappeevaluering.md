@@ -23,9 +23,9 @@ Alle innleveringer har frist på en fredag kl 16:00.
 | [Innlevering 6 - Flervalgstest](innlevering6.md) | <span style="color:OrangeRed;">17.  november 16:00</span>  |
 
 ## Flervalgstester (innlevering 1, 3, og 6)
-Flervalgstestene vil innholde 10 - 20 spørsmål. Hvert spørsmål vil ha fire svarsalternativer, der et svarsalternativ er riktig. Spørsmål og feilsvar blir trukket tilfeldig. Med andre ord vil ulike studenter kunne få ulike spørsmål, og ulike svarsalternativer. 
+Flervalgstestene vil innholde 15 - 25 spørsmål. Hvert spørsmål vil ha fire svarsalternativer, der et svarsalternativ er riktig. Spørsmål og feilsvar blir trukket tilfeldig. Med andre ord vil ulike studenter kunne få ulike spørsmål, og ulike svarsalternativer. 
 
-Hvert flervalgstest vil finnes tilgjengelig under 2 dager. Du kan altså velge når du tar testen. Når du vel har startet testen vil du ha 60 minutter på deg til å svare. Det vil ikke være mulig å ta én test mer enn én gang.
+Hvert flervalgstest vil finnes tilgjengelig under 2 dager. Du kan altså velge når du tar testen. Når du vel har startet testen vil du ha begrenset med tid til å ta testen. Tiden du har tilgjengelig vil avhenge antallet spørsmål i testen, men du kan forvente deg at du ikke har mer enn 5 minutter per spørsmål. Informasjon om tid til testen kommer noen dager før testen blir tilgjengelig. Det vil ikke være mulig å ta én test mer enn én gang.
 
 ### Innlevering av flervalgstester
 Flervalgstestene vil enten bli gjennomført i Canvas, eller i Wiseflow. Vi vil gi beskjed om dette seinere. 
