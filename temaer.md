@@ -89,7 +89,7 @@ Dette temaet gir en introduksjon til den nordiske modellen, og til arbeidsmarked
 | F4.1 | Argumenter for offentlig finansiert trygd - del 1 | Barr. Kapittel 4 og 6|
 | F4.2 | Argumenter for offentlig finansiert trygd - del 2 | Barr. Kapittel 4 og 6 |
 | F4.3 | Problemer og løsninger - del 1| Boeri og van Ours. Kapittel 12|
-| F4.4 | Problemer og løsninger - del 2 |Boeri og van Ours. Kapittel 13, Barr. Kapittel 6 og 9|
+| F4.4 | Problemer og løsninger - del 2 |Boeri og van Ours. Kapittel 12, Barr. Kapittel 6 og 9|
 
 ### [Lenker til forelesningsnotater](forelesninger.md#f_t4) (oppdateres fortløpende)
 
