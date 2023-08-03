@@ -64,8 +64,10 @@ Utfordringene blir bedømt i henhold til regelen i Tabell 2. Det vil være mulig
 
 Det er tillatt å arbeide med oppgavene sammen med andre. Hver enkelt student skal likvel skrive og levere inn sine utfordringer individuelt. Med andre ord må hver enkelt student produsere sin egen tekst, figurer, koder og så videre. Det er ikke lov å levere inn helt eller nesten identiske oppgaver. Det er altså ikke lov å kun bytte ut noen ord i sin innlevering. Vi bruker URKUND for å sjekke for plagiering. Vi er bevisst på at oppgavene vil være relativt lik og vil ta høyde for dette når vi evaluerer resultatene fra URKUND. 
 
-Dersom du bruker kunstig intelligens for å løse oppgaver, skal dette gjøres rede for nøye i oppgaven. Du må oppgi de spørsmål du stilte til den kunstige intelligensen, hvilket svar du fikk, og i hvilken grad du endret svaret/koden fra boten. Regegjørelsen skal leveres som et appendiks til oppgaven. 
+### Bruk av kunstig intelligens (KI)
+Hver innlevering **skal** innholde en deklarasjon om bruk av KI. Deklarasjonen skal settes inn i et appendiks til oppgaven. **Du må ha med deklarasjonen selv om du ikke har brukt KI**.
 
+Dersom du bruker kunstig intelligens for å løse oppgaven skal du oppgi hvilken KI du brukte. Du må også gjøre rede for de spørsmål du stilte til den KI:n, hvilket svar du fikk, og i hvilken grad du endret svaret/koden fra KI:n. Regegjørelsen skal leveres som et appendiks til oppgaven. Dersom du ikke gjør rede for ditt bruk av KI:n, vil oppdekket bruk ses som juks. 
 
 ### Tips og triks for hvordan du skriver en god besvarelse
 
