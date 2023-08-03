@@ -22,21 +22,28 @@ Det er lov å bytte tidspunkt, men det er regler knyttet til bytte.
 * Dere må gi oss beskjed via epost om byttet (med hvem og hvilke tidspunkter det gjelder) **seinest fredag 25 november kl 12:00**
 
 ## Opplegg
-På den muntlige eksamen vil du få besvare tre generelle spørsmål om kurset:
+Den muntlige eksamen er delt opp i to hoveddeler.
 
-1. **Hva er grundpilarene i den Nordiske modellen?**
-* *Instruksjon*: Beskriv kortfattet de viktiste delene av den Nordiske modellen. Maks poeng: 2 poeng. Foreslått tidsbruk: 2 minutter. 
+### Del 1
+I den første delen skal du besvare to generelle spørsmål. Du vil ha totalt 10 minutter til å presentere svar til disse spørsmålene.
+1. **Hva er den nordiske modellen for noe (mål, grunnpilarer, og fundamenter)?**
+* *Instruksjon*: I denne delen av eksamen skal du beskrive de viktigste delene av den nordiske modellen, og sammenhengen mellom disse delene.
+* Maks poeng: 2 poeng.
+* Foreslått tidsbruk: 2 minutter. 
 2. **Hvilke er de økonomiske argumentene til den Nordiske modellen?**
-* *Instruksjon*: To viktige mål med den Nordiske modellen er sosial likhet og økonomisk vekst.Forklar hvorfor private markeder kanskje ikke klarer å oppnå disse målene uten statlige intervensjoner. Maks poeng: 5 poeng. Foreslått tidsbruk: 9 minutter. 
-3. **Hvilke "utfordringer" eller mulige problemer er tilknyttet den Nordiske modellen?**
+* *Instruksjon*: Her skal du først forklare hvordan markedet kan oppnå målene til den nordiske modellen, i den "beste av alle verder". Du skal deretter beskrive økonomiske argumenter til hvorfor private markeder likevel kanskje ikke klarer å oppnå disse målene (det vil si, hvorfor offentlige inngreper kan være motiverte). Du skal ta opp økonomiske argumenter knyttet både til effektivitet og rettferdighet.
+* Maks poeng: 5 poeng.
+* Foreslått tidsbruk: 8 minutter.
 
-**Må utdypes!!**
+Etter din presentasjon vil sensorene kunne stille spørsmål til presentasjonen din.
 
-* Du forventes å selvstendig presentere din besvarelse på de tre hovedoppgavene på 20 minutter. 
+### Del 2
+I den andre delen vil du få spørsmål knyttet til **inneboende problemer som finnes idag i den nordiske modellen, og utfordringer som modellen står innfor i framtiden**. Du vil få spørsmål som er knyttet til spesifikke temaer (f.eks "liberal innvandringspolitikk", "en aldrende befolkning"). Temaene blir trukket tilfeldig. Vi vil spesifisere temaer som inngår i trekningen seinest to uker før eksamen. Her nede finner du en generell instruksjon til hva temaene vil fokusere på, og hva du skal tenke på i din besvarelse.
 
-* Du kan få oppfølgningsspørsmål knyttet enhvert av de tre generelle spørsmålene. Hvis du kjører fast vil du få spørsmål som gir deg støtte. 
+* *Instruksjon*: For at den Nordiske modellen skal være bærekraftig må finansieringen av velferdsordningene sikres. Hva trengs for å få til denne finansieringen og hvilke trusler finns det mot finansieringen? Fokuser på økonomiske argumenter og teori i din besvarelse! 
 
-* <a href="Assets/Instruks_muntlig_eksamen2022.pdf"> Detaljert instruksjon til muntlig eksamen</a>
+* Maks poeng: 5 poeng.
+* 
 
 ## Regler
 Presentasjonen skal være muntlig. Det vil finnes en whiteboard og penner i rommet slik at dere kan tegne på tavla om det er behov for dette. 
