@@ -12,7 +12,7 @@ Du vil få mulighet å jobbe med oppgavene på et utfordringsseminar knyttet til
 Litteratur:
 
 - Barr. Kapittel 4, 6 og 9
-- Boeri og van Ours. Kapittel 12 og 13
+- Boeri og van Ours. Kapittel 12
 
 [Forelesningsnotater](forelesninger.md#f_t4)
 
