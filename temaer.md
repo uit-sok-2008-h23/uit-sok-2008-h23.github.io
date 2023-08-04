@@ -23,6 +23,12 @@ Dette temaet gir en introduksjon til den nordiske modellen, og til arbeidsmarked
 
 ### [Lenker til video-forelesninger](video.md#v_t1) (oppdateres fortløpende)
 
+## Støtteressurser
+
+* [Sånn er Norge - Episode 1, Sesong 1] (https://tv.nrk.no/serie/harald-eia-presenterer-saann-er-norge/sesong/1/episode/1/avspiller)
+* [Sånn er Norge - Episode 1, Sesong 2] (https://tv.nrk.no/serie/harald-eia-presenterer-saann-er-norge/sesong/1/episode/2/avspiller)
+* [Sånn er Norge - Episode 5, Sesong 1] (https://tv.nrk.no/serie/harald-eia-presenterer-saann-er-norge/sesong/1/episode/5/avspiller)
+
 &nbsp;
 &nbsp;
 
@@ -48,6 +54,7 @@ Dette temaet gir en introduksjon til den nordiske modellen, og til arbeidsmarked
 
 ### [Lenker til video-forelesninger](video.md#v_t2) (oppdateres fortløpende)
 
+## Støtteressurser
 &nbsp;
 &nbsp;
 
@@ -71,6 +78,8 @@ Dette temaet gir en introduksjon til den nordiske modellen, og til arbeidsmarked
 
 ### [Lenker til video-forelesninger](video.md#v_t3) (oppdateres fortløpende)
 
+## Støtteressurser
+* [Sånn er Norge - Episode 4, Sesong 1](https://tv.nrk.no/serie/harald-eia-presenterer-saann-er-norge/sesong/1/episode/4/avspiller)
 &nbsp;
 &nbsp;
 
@@ -95,6 +104,7 @@ Dette temaet gir en introduksjon til den nordiske modellen, og til arbeidsmarked
 
 ### [Lenker til video-forelesninger](video.md#v_t4) (oppdateres fortløpende)
 
+## Støtteressurser
 &nbsp;
 &nbsp;
 
@@ -117,3 +127,8 @@ Dette temaet gir en introduksjon til den nordiske modellen, og til arbeidsmarked
 
 ### [Lenker til forelesningsnotater](forelesninger.md#f_t5) (oppdateres fortløpende)
 ### [Lenker til video-forelesninger](video.md#v_t5) (oppdateres fortløpende)
+
+## Støtteressurser
+* [Sånn er Norge - Episode 6, Sesong 1](https://tv.nrk.no/serie/harald-eia-presenterer-saann-er-norge/sesong/1/episode/6/avspiller)
+* [Sånn er Norge - Episode 7, Sesong 1](https://tv.nrk.no/serie/harald-eia-presenterer-saann-er-norge/sesong/1/episode/7/avspiller)
+* [Sånn er Norge - Episode 8, Sesong 1](https://tv.nrk.no/serie/harald-eia-presenterer-saann-er-norge/sesong/1/episode/8/avspiller)
