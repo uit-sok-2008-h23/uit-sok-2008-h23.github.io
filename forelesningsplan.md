@@ -29,8 +29,8 @@ Du velger selv når du tar del av videoforelesningene, men vi anbefaler at du se
 | 35 |       |  | | | |
 | 36 |       | F2.1 - [Tema 2](temaer.md#tema2) <br> BO. k.5 | F2.2 <br> BO. k.7  | S2.1   | |
 | 37 |       | F2.3 <br> Barr. 10-11   | F2.4  <br> Barr. k3, 9 | S2.2   | |
-| 38 |       |US - [Utfordring 1](innlevering2.md)| | | Frist - Utfordring 1|
-| 39 |       | F3.1 - [Tema 3](temaer.md#tema3) <br> BO. k.2| F3.2 <br> BO. k.3| |FS - [Utfordring 1](innlevering2.md) |
+| 38 |       |US - [Utfordring 1](innlevering2.md)| | | Frist - [Utfordring 1](innlevering2.md)|
+| 39 |       | F3.1 - [Tema 3](temaer.md#tema3) <br> BO. k.2| F3.2 <br> BO. k.3| |FS - Utfordring 1|
 | 40 |       | F3.3 <br> NOU2021:9   |         |       | S3.1 |
 | 41 | US - [Utfordring 2](innlevering4.md) | | | | <br> Frist - [Flervalgstest 2](innlevering3.md) |
 | 42 |       |F4.1 - [Tema 4](temaer.md#tema4) <br> Barr k.4, 6  | F4.2 <br> Barr k.4, 6  | F4.3  <br> BO. k.12| Frist -  [Utfordring 2](innlevering4.md) |
