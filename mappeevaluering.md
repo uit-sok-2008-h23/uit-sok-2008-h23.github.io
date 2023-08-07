@@ -3,7 +3,7 @@
 <!-- Gjør endringer under her -->
 
 # Mappeevaluering
-Mappeevalueringen består av 6 innleveringer. Det er to type innleveringer: **flervalgstest** (multiple choice) og **utfordringer** (skriftlige innleveringer). Hver innlevering er knyttet til en eller flere moduler (eller tema) i kurset, og til spesielle kapitler i pensumbøkene.
+Mappeevalueringen består av 6 innleveringer. Det er to type innleveringer: **flervalgtest** (multiple choice) og **utfordringer** (skriftlige innleveringer). Hver innlevering er knyttet til en eller flere moduler (eller tema) i kurset, og til spesielle kapitler i pensumbøkene.
 
 Enhver innlevering kan gi 0 til 2 poeng. Totalt kan altså innleveringene gi 12 poeng (6 innleveringer à 2 poeng). Karakteren på mappen avhenger total poeng på alle innleveringer. 
 
@@ -15,15 +15,15 @@ Alle innleveringer har frist på en fredag kl 16:00.
 
 | **Innlevering** | **Frist** |
 | ------------- |------- |
-| [Innlevering 1 - Flervalgstest](innlevering1.md) | <span style="color:OrangeRed;">1.  september 16:00</span>  |
+| [Innlevering 1 - Flervalgtest](innlevering1.md) | <span style="color:OrangeRed;">1.  september 16:00</span>  |
 | [Innlevering 2 - Utfordring 1](innlevering2.md) | <span style="color:OrangeRed;">22. september 16:00</span> |
-| [Innlevering 3 - Flervalgstest](innlevering3.md) | <span style="color:OrangeRed;">13.  oktober 16:00</span> |
+| [Innlevering 3 - Flervalgtest](innlevering3.md) | <span style="color:OrangeRed;">13.  oktober 16:00</span> |
 | [Innlevering 4 - Utfordring 2](innlevering4.md) | <span style="color:OrangeRed;">20. oktober 16:00</span> |
 | [Innlevering 5 - Utfordring 3](innlevering5.md) | <span style="color:OrangeRed;">3.   november 16:00</span> |
-| [Innlevering 6 - Flervalgstest](innlevering6.md) | <span style="color:OrangeRed;">17.  november 16:00</span>  |
+| [Innlevering 6 - Flervalgtest](innlevering6.md) | <span style="color:OrangeRed;">17.  november 16:00</span>  |
 
-## Flervalgstester (innlevering 1, 3, og 6)
-Flervalgstestene vil innholde 15 - 25 spørsmål. Hvert spørsmål vil ha fire svarsalternativer, der et svarsalternativ er riktig. Spørsmål og feilsvar blir trukket tilfeldig. Med andre ord vil ulike studenter kunne få ulike spørsmål, og ulike svarsalternativer. 
+## Flervalgtester (innlevering 1, 3, og 6)
+Flervalgtestene vil innholde 15 - 25 spørsmål. Hvert spørsmål vil ha fire svarsalternativer, der et svarsalternativ er riktig. Spørsmål blir trukket tilfeldig. Med andre ord vil ulike studenter kunne få ulike spørsmål, og ulike svarsalternativer. 
 
 Hvert flervalgstest vil finnes tilgjengelig under 2 dager. Du kan altså velge når du tar testen. Når du vel har startet testen vil du ha begrenset med tid til å ta testen. Tiden du har tilgjengelig vil avhenge antallet spørsmål i testen, men du kan forvente deg at du ikke har mer enn 5 minutter per spørsmål. Informasjon om tid til testen kommer noen dager før testen blir tilgjengelig. Det vil ikke være mulig å ta én test mer enn én gang.
 
@@ -31,9 +31,9 @@ Hvert flervalgstest vil finnes tilgjengelig under 2 dager. Du kan altså velge n
 Flervalgstestene vil enten bli gjennomført i Canvas, eller i Wiseflow. Vi vil gi beskjed om dette seinere. 
 
 ### Evaluering av flervalgstester
-Poengen til flervalgstestene er basert på prosent antall riktige svar. Mer spesifikkt blir blir poenget beregnet ved bruk av følgende regel: **$\frac{(R-0.25\cdot F)}{T}\cdot 2$**, der $R$ er antall riktige svar, $F$ er feilsvar, og $T$ er totalt antall spørsmål i testen. Poenget blir avrundet til 1 desimal.
+Poengen til flervalgtestene er basert på prosent antall riktige svar. Mer spesifikkt blir blir poenget beregnet ved bruk av følgende regel: **$\frac{(R-0.25\cdot F)}{T}\cdot 2$**, der $R$ er antall riktige svar, $F$ er feilsvar, og $T$ er totalt antall spørsmål i testen. Poenget blir avrundet til 1 desimal.
 
-Alle spørsmål på flervalgstestene på sok-2008 har 4 svarsalternativer. Sannsynligheten for å svare riktig av ren tilfeldighet er derved 25%. Regeln som blir brukt til å beregne poeng bestraffer derfor feilsvar med 25%. Dersom du ikke aner hva riktig svar er på et spørsmål, er det altså bedre å ikke svare enn å gjete. 
+Alle spørsmål på flervalgtestene på sok-2008 har 4 svarsalternativer. Sannsynligheten for å svare riktig av ren tilfeldighet er derved 25%. Regeln som blir brukt til å beregne poeng bestraffer derfor feilsvar med 25%. Dersom du ikke aner hva riktig svar er på et spørsmål, er det altså bedre å ikke svare enn å gjete. 
 
 ## Utfordringer (innlevering 2, 4, og 5)
 Hver utfordring vil ha flere deloppgaver. Noen av oppgavene er matematiske, andre er mer rettet mot diskusjon, og i noen av dem skal studenten bruke data og statistisk analyse. 
@@ -42,7 +42,7 @@ For alle oppgaver gjelder at du må gi økonomisk intuisjon (forklaring) til din
 Etter hver innlevering vil vi avsette tid til tilbakemelding på innleveringene, se [forelesningsplanen](forelesningsplan.md)
 
 ### Innlevering av utfordringer
-Alle utfordringer skal leveres i Wiseflow. Kode og redegjørelser for bruk av kunstig intelligens leveres som appendiks i oppgaven (enten i et separat eller i samme dokument). 
+Utfodringene skal leveres i WiseFlow eller Canvas (vi vil gi beskjed om dette seinere). Kode og redegjørelser for bruk av kunstig intelligens leveres som appendiks i oppgaven (enten i et separat eller i samme dokument). 
 
 Innleveringene skal skje individuelt. 
  
@@ -55,8 +55,8 @@ Utfordringene blir bedømt i henhold til regelen i Tabell 2. Det vil være mulig
 
 | Poeng | Beskrivelse |
 | ----- |------------ |
-| 2 | Svært godt gjennomført. Alle spørsmål er fullstendig besvarte. Det er enkelt å følge resonnementene. Det gis god økonomisk intuisjon til alle oppgaver. Matematikken er i stort korrekt og enkel å følge. Det finnes ikke store feil. Kode er lastet opp på Github og lenket til i oppgaven. Oppgave og kode er ryddig skreven.|
-| 1 | Tilstrekkelig godt gjennomført. Alle spørsmål er besvarte eller så er nesten alle spørsmål besvarte OG det gis en god gjennomgang av problemer med ubesvarte oppgaver. Det går å følge resonnementene. Det gis økonomisk intuisjon. Det kan finnes små feil i matematikken men ikke store feil. Kode er lastet opp på Github og lenket til i oppgaven. Oppgaven er ryddig skreven. |
+| 2 | Svært godt gjennomført. Alle spørsmål er fullstendig besvarte. Det er enkelt å følge resonnementene. Det gis god økonomisk intuisjon til alle oppgaver. Matematikken er i stort korrekt og enkel å følge. Det finnes ikke store feil. Kode er lastet opp på Github og lagt til som appendiks til i oppgaven. Studenten har gjort rede for bruk av KI. Oppgave og kode er ryddig skreven.|
+| 1 | Tilstrekkelig godt gjennomført. Alle spørsmål er besvarte eller så er nesten alle spørsmål besvarte OG det gis en god gjennomgang av problemer med ubesvarte oppgaver. Det går å følge resonnementene. Det gis økonomisk intuisjon. Det kan finnes små feil i matematikken men ikke store feil. Kode er lastet opp på Github og lagt til som appendiks til i oppgaven. Studenten har gjort rede for bruk av KI. Oppgaven er ryddig skreven. |
 | 0 | Ikke tilstrekkelig godt gjennomført. Ikke alle spørsmål er besvarte og studenten gir ikke en god gjennomgang av problemer med ubesvarte oppgaver ELLER det er svært vanskelig å følge resonnementene i oppgaven ELLER det gis ikke økonomisk intuisjon ELLER det finnes store feil i matematikken, og/eller den økonomiske intuisjonen. |
 
 
@@ -65,7 +65,7 @@ Utfordringene blir bedømt i henhold til regelen i Tabell 2. Det vil være mulig
 Det er tillatt å arbeide med oppgavene sammen med andre. Hver enkelt student skal likvel skrive og levere inn sine utfordringer individuelt. Med andre ord må hver enkelt student produsere sin egen tekst, figurer, koder og så videre. Det er ikke lov å levere inn helt eller nesten identiske oppgaver. Det er altså ikke lov å kun bytte ut noen ord i sin innlevering. Vi bruker URKUND for å sjekke for plagiering. Vi er bevisst på at oppgavene vil være relativt lik og vil ta høyde for dette når vi evaluerer resultatene fra URKUND. 
 
 ### Bruk av kunstig intelligens (KI)
-Hver innlevering **skal** innholde en deklarasjon om bruk av KI. Deklarasjonen skal settes inn i et appendiks til oppgaven. **Du må ha med deklarasjonen selv om du ikke har brukt KI**.
+Hver innlevering **skal** inneholde en deklarasjon om bruk av KI. Deklarasjonen skal settes inn i et appendiks til oppgaven. **Du må ha med deklarasjonen selv om du ikke har brukt KI**.
 
 Dersom du bruker kunstig intelligens for å løse oppgaven skal du oppgi hvilken KI du brukte. Du må også gjøre rede for de spørsmål du stilte til KI:n, hvilket svar du fikk, og i hvilken grad du endret svaret/koden fra KI:n. Regegjørelsen skal leveres som et appendiks til oppgaven. Dersom du ikke gjør rede for ditt bruk av KI:n, vil oppdekket bruk ses som juks. Du er selv ansvarlig for å sjekke innholdet i besvarelsen fra KI-verktøyet (ikke alt er riktig!), og du må passe på at besvarelsen din flyter godt (det vil trekke ned dersom sensoren ser tydelige forskjeller mellom egen tekst og tekst som er generert av KI).
 
