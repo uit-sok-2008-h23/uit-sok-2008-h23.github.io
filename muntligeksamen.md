@@ -30,8 +30,8 @@ I den første delen skal du besvare to generelle spørsmål. Du vil ha totalt 10
 * *Instruksjon*: I denne delen av eksamen skal du beskrive de viktigste delene av den nordiske modellen, og sammenhengen mellom disse delene.
 * Maks poeng: 2 poeng.
 * Foreslått tidsbruk: 2 minutter. 
-2. **Hvilke er de økonomiske argumentene til den Nordiske modellen?**
-* *Instruksjon*: Her skal du først forklare hvordan markedet kan oppnå målene til den nordiske modellen, i den "beste av alle verder". Du skal deretter beskrive økonomiske argumenter til hvorfor private markeder likevel kanskje ikke klarer å oppnå disse målene (det vil si, hvorfor offentlige inngreper kan være motiverte). Du skal ta opp økonomiske argumenter knyttet både til effektivitet og rettferdighet.
+2. **Hvilke er de teoretiske argumentene for den nordiske modellen?**
+* *Instruksjon*: Her skal du først forklare hvordan og under hvilke forutsetninger markedet selv kan oppnå målene til den nordiske modellen. Du skal deretter beskrive teoretiske argumenter til hvorfor private markeder likevel kanskje ikke klarer å oppnå disse målene (det vil si, hvorfor offentlige inngreper kan være motiverte). Du skal ta opp økonomiske argumenter knyttet både til effektivitet og rettferdighet.
 * Maks poeng: 5 poeng.
 * Foreslått tidsbruk: 8 minutter.
 
