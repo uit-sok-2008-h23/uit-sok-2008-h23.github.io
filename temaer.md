@@ -3,19 +3,19 @@
 <!-- Gjør endringer under her -->
 
 # Tema 1 - Introduksjon til den nordiske modellen og arbeidsmarkedsøkonomi <a name="tema1"></a>
-Dette temaet gir en introduksjon til den nordiske modellen, og til arbeidsmarkedsøkonomi.
+Den første delen av dette temaet gir en introduksjon til den nordiske modellen og gir en drøfting av det teoretiske grunnlaget for velferdsstaten. Den andre delen gir en introduksjon til arbeidsmarkedsøkonomi, der vi vil gå igjennom sentrale begreper og analysere individets tilbud av arbeid, bedrifters etterspørsel på arbeid, og likevekt under fullkommen konkurranse. I tillegg vil vi analysere effekter av markedsmakt på arbeidsmarkedet.
 
 ## Pensum
 ### Bøker og annen litteratur
 * Barr. The Economics of the Welfare state. Kapittel 1 og 2
 * Boeri og van Ours. The Economics of imperfect labor markets. Kapittel 1
-* NOU - 2021:9 - Den norske modellen og fremtidens arbeidsliv — Utredning om tilknytningsformer og virksomhetsorganisering
+* NOU - 2011:7 - Velferd og migrasjon. Den norske modellens framtid. Kapittel 3.1-3.3
 
 ## Forelesninger
 
 | Forelesning | Innhold | Pensum | 
 | ----------- |------- |----- | 
-| F1.1 | Introduksjon til den nordiske modellen | NOU 2021:9 kapittel 3 |
+| F1.1 | Introduksjon til den nordiske modellen | NOU - 2011:7, Kapittel 3.1-3.3 |
 | F1.2 | Velferdsstaten - filosofi og finansiering | Barr. Kapittel 1 og 2 |
 | F1.3 | Introduksjon til arbeidsmarkedsøkonomi 1 | Boeri og van Ours. Kapittel 1 |
 
@@ -33,8 +33,12 @@ Dette temaet gir en introduksjon til den nordiske modellen, og til arbeidsmarked
 &nbsp;
 
 # Tema 2 - Høy yrkesdeltakelse <a name="tema2"></a>
-**Legg til introtekst**
-
+Høy yrkesdeltakelse er en forutsetning for at den nordiske modellen skal  opprettholde et sjenerøst og universelt velferdstilbud og være økonomisk bærekraftig. Det å opprettholde yrkesdeltakelsen på et høyt nivå er et sentralt mål for politikken, og søkes oppnådd gjennom en stor
+offentlig tjenestesektor, der både utdanning, helsetjenester tilbys i offentlig regi, samt gjennom aktiv familiepolitikk. Innenfor dette temaet vil vi analysere positive og negative virkninger av regulert arbeidstid. Vi vil også se på hvordan ulike typer av støtte til familier kan påvirke deltakelse på arbeidsmarkedet og antall arbeidstimer. Vi vil gå gjennom de teoretiske argumentene hvorfor det offentlige tilbyr og subsidierer utdanning og helsetjenester. 
+Familiepolitikken og likestillingspolitikken
+utgjør en viktig del av bakgrunnen for at yrkesdeltakelsen
+er høy blant kvinner i Norge, sammenliknet
+med de fleste andre land i OECD-området.
 ## Pensum
 ### Bøker og annen litteratur
 * Boeri og van Ours. kapittel 5 og 7
@@ -61,8 +65,7 @@ Dette temaet gir en introduksjon til den nordiske modellen, og til arbeidsmarked
 &nbsp;
 
 # Tema 3 - Organisert arbeidsliv <a name="tema3"></a>
-**Legg til introduksjonstekst!**
-
+Den nordiske modellen er kjennetegnet av nært samarbeid mellom myndighetene og arbeidsgiver- og arbeidstakerorganisasjonene. En utfordring for den norske modellen som har fått større oppmerksomhet de siste årene er såkalt sosial dumping. Dette temaet analyserer fagforeninger og minstelønnsbestemmelser ved hjelp av økonomisk teori og  gir også en innøring i den nordiske arbeidsmarkedsmodellen.
 ## Pensum
 ### Bøker og annen litteratur
 * Boeri og van Ours. Kapittel 2 og 3
@@ -111,7 +114,7 @@ Dette temaet gir en introduksjon til den nordiske modellen, og til arbeidsmarked
 &nbsp;
 
 # Tema 5 - Framtiden <a name="tema5"></a>
-**Legg til introtekst!**
+Den nordiske modellen står overfor en rekke utfordringer. Befolkningen i vestlige land blir stadig eldre, og økte utgifter til pensjoner og eldreomsorg må dermed bæres av en stadig mindre gruppe av arbeidende. Dette stiller vestlige land overfor valget mellom å skjære ned på velferdsytelser, øke skattenivået eller oppmuntre folk til å stå lenger i arbeid. En annen utfordring er knyttet til økonomisk globalisering. et har blitt hevdet at økt innvandring svekker solidariteten i samfunnet og dermed også grunnlaget for en universell velferdsstat. Samtidig ser mange arbeidsinnvandring som én løsning på den demografiske utfordringen velferdsstaten står overfor. I dette temaet bruker vi økonomisk teori til å analysere sammenhengen mellom innvandring og den nordiske modellen, og diskuterer om den nordiske modellen er i stand til å møte  fremtidige utfordringer.
 
 ## Pensum
 ### Bøker og annen litteratur
