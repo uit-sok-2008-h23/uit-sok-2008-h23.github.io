@@ -39,7 +39,6 @@ Høy yrkesdeltakelse er en forutsetning for at den nordiske modellen skal oppret
 ### Bøker og annen litteratur
 * Boeri og van Ours. kapittel 5 og 7
 * Barr. Kapittel 3, 9 - 11
-* NOU - 2021:9 - Den norske modellen og fremtidens arbeidsliv — Utredning om tilknytningsformer og virksomhetsorganisering
 
 ## Forelesninger
 
@@ -65,7 +64,7 @@ Den nordiske modellen er kjennetegnet av nært samarbeid mellom myndighetene og 
 ## Pensum
 ### Bøker og annen litteratur
 * Boeri og van Ours. Kapittel 2 og 3
-* NOU - 2021:9. Kapittel 3 (**Sjekk at dette er riktig**)
+* NOU - 2021:9. Kapittel 3
 
 ## Forelesninger
 
