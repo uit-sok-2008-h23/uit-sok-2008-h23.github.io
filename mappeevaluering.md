@@ -28,6 +28,7 @@ Flervalgtestene vil innholde 15 - 25 spørsmål. Hvert spørsmål vil ha fire sv
 Hvert flervalgstest vil finnes tilgjengelig under 8 timer (08:00-16:00). Du kan altså velge når du tar testen i løpet av en dag. Når du vel har startet testen vil du ha begrenset med tid til å ta testen. Tiden du har tilgjengelig vil avhenge antallet spørsmål i testen, men du kan forvente deg at du ikke har mer enn 3 minutter per spørsmål. Informasjon om tid til testen kommer noen dager før testen blir tilgjengelig. Det vil ikke være mulig å ta én test mer enn én gang.
 
 ### Innlevering av flervalgstester
+Innleveringen skal skje individuelt. 
 Flervalgstestene vil enten bli gjennomført i Canvas.
 
 ### Evaluering av flervalgstester
@@ -42,9 +43,12 @@ For alle oppgaver gjelder at du må gi økonomisk intuisjon (forklaring) til din
 Etter hver innlevering vil vi avsette tid til tilbakemelding på innleveringene, se [forelesningsplanen](forelesningsplan.md)
 
 ### Innlevering av utfordringer
-Utfodringene skal leveres i WiseFlow eller Canvas (vi vil gi beskjed om dette seinere). Kode og redegjørelser for bruk av kunstig intelligens leveres som appendiks i oppgaven (enten i et separat eller i samme dokument). 
+Innleveringene skal skje individuelt.
 
-Innleveringene skal skje individuelt. 
+Utfodringene skal leveres i Canvas. Kode og redegjørelser for bruk av kunstig intelligens leveres som appendiks i oppgaven (enten i et separat eller i samme dokument). 
+
+**NB: Det er utrolig viktig at du bruker følgende navn på din innlevering! "[ditt kandidatnummer]sok_2008_h23_utf[utfordringsnummer]"**
+Vi trenger ditt kandidatnummer for å gi en eventuell klagekommisjon tilgang til din oppgave. 
  
 ### Evaluering av utfordringer
 Utfordringene blir bedømt i henhold til regelen i Tabell 2. Det vil være mulig å få 0.5 og 1.5 poeng på utfordringene.
