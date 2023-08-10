@@ -33,12 +33,8 @@ Den første delen av dette temaet gir en introduksjon til den nordiske modellen 
 &nbsp;
 
 # Tema 2 - Høy yrkesdeltakelse <a name="tema2"></a>
-Høy yrkesdeltakelse er en forutsetning for at den nordiske modellen skal  opprettholde et sjenerøst og universelt velferdstilbud og være økonomisk bærekraftig. Det å opprettholde yrkesdeltakelsen på et høyt nivå er et sentralt mål for politikken, og søkes oppnådd gjennom en stor
-offentlig tjenestesektor, der både utdanning, helsetjenester tilbys i offentlig regi, samt gjennom aktiv familiepolitikk. Innenfor dette temaet vil vi analysere positive og negative virkninger av regulert arbeidstid. Vi vil også se på hvordan ulike typer av støtte til familier kan påvirke deltakelse på arbeidsmarkedet og antall arbeidstimer. Vi vil gå gjennom de teoretiske argumentene hvorfor det offentlige tilbyr og subsidierer utdanning og helsetjenester. 
-Familiepolitikken og likestillingspolitikken
-utgjør en viktig del av bakgrunnen for at yrkesdeltakelsen
-er høy blant kvinner i Norge, sammenliknet
-med de fleste andre land i OECD-området.
+Høy yrkesdeltakelse er en forutsetning for at den nordiske modellen skal opprettholde et sjenerøst og universelt velferdstilbud og være økonomisk bærekraftig. Høy yrkesdeltakelse er derfor også et sentralt mål for politikken, og søkes oppnådd gjennom en stor offentlig tjenestesektor, der både utdanning, helsetjenester tilbys i offentlig regi, samt gjennom aktiv familiepolitikk. Familiepolitikken utgjør en viktig del av bakgrunnen for at yrkesdeltakelsen er høy blant kvinner i Norge. Vi vil gå gjennom de teoretiske argumentene hvorfor det offentlige tilbyr og subsidierer utdanning og helsetjenester. Vi vil også se på hvordan ulike typer av støtte til familier kan påvirke deltakelse på arbeidsmarkedet og antall arbeidstimer. Innenfor dette temaet vil vi analysere positive og negative virkninger av regulert arbeidstid.   
+
 ## Pensum
 ### Bøker og annen litteratur
 * Boeri og van Ours. kapittel 5 og 7
@@ -65,7 +61,7 @@ med de fleste andre land i OECD-området.
 &nbsp;
 
 # Tema 3 - Organisert arbeidsliv <a name="tema3"></a>
-Den nordiske modellen er kjennetegnet av nært samarbeid mellom myndighetene og arbeidsgiver- og arbeidstakerorganisasjonene. En utfordring for den norske modellen som har fått større oppmerksomhet de siste årene er såkalt sosial dumping. Dette temaet analyserer fagforeninger og minstelønnsbestemmelser ved hjelp av økonomisk teori og  gir også en innøring i den nordiske arbeidsmarkedsmodellen.
+Den nordiske modellen er kjennetegnet av nært samarbeid mellom myndighetene og arbeidsgiver- og arbeidstakerorganisasjonene. En utfordring for den norske modellen som har fått større oppmerksomhet de siste årene er såkalt sosial dumping. Dette temaet analyserer fagforeninger og minstelønnsbestemmelser ved hjelp av økonomisk teori og gir også en innføring til den nordiske arbeidsmarkedsmodellen.
 ## Pensum
 ### Bøker og annen litteratur
 * Boeri og van Ours. Kapittel 2 og 3
@@ -88,7 +84,7 @@ Den nordiske modellen er kjennetegnet av nært samarbeid mellom myndighetene og 
 &nbsp;
 &nbsp;
 
-# Tema 4 - Inntektssikkring <a name="tema4"></a>
+# Tema 4 - Inntektssikring <a name="tema4"></a>
 **Legg til introtekst!!**
 
 ## Pensum
@@ -102,7 +98,7 @@ Den nordiske modellen er kjennetegnet av nært samarbeid mellom myndighetene og 
 | ----------- |------- |----- | 
 | F4.1 | Argumenter for offentlig finansiert trygd - del 1 | Barr. Kapittel 4 og 6|
 | F4.2 | Argumenter for offentlig finansiert trygd - del 2 | Barr. Kapittel 4 og 6 |
-| F4.3 | Problemer og løsninger - del 1| Boeri og van Ours. Kapittel 12|
+| F4.3 | Problemer og løsninger - del 1 | Boeri og van Ours. Kapittel 12|
 | F4.4 | Problemer og løsninger - del 2 |Boeri og van Ours. Kapittel 12, Barr. Kapittel 6 og 9|
 
 ### [Lenker til forelesningsnotater](forelesninger.md#f_t4) (oppdateres fortløpende)
