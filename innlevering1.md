@@ -6,20 +6,21 @@
 
 ### <span style="color:OrangeRed;"> Frist: 1. september kl 16:00 </span>
 
-**Sett inn introtekst
+Denne testen innholder spørsmål knyttet til tema 1. Hvert spørsmål har 1 riktig svar, og 3 feilsvar.
+Makspoeng på testen er 2 poeng. Din poeng på testen avhenger andel riktige svar og antall feilsvar. Poengen blir beregnet etter formelen:
+
+Testen skal tas individuelt. 
+
+Lykke til!
 
 **Førberedelser og støtte:**
 
 Litteratur:
 
-- Barr. Kapittel 1 og 2
-
-- Boeri og van Ours. Kapittel 1
-
-- NOU 2021:9. Kapittel 3
-
-[Forelesningsnotater](forelesninger.md#f_t1)
-
-[Videoer](video.md#v_t1)
+- Barr. The Economics of the Welfare state. Kapitler 1 og 2
+- Boeri og van Ours. The Economics of imperfect labor markets. Kapittel 1
+- NOU - 2011:7 - Velferd og migrasjon. Den norske modellens framtid. Kapittel 3.1-3.3
+- [Forelesningsnotater](forelesninger.md#f_t1)
+- [Videoer](video.md#v_t1)
 
  ## Lenke til flervalgstest
