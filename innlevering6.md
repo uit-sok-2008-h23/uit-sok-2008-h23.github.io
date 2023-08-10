@@ -16,7 +16,7 @@ Lykke til!
 
 Litteratur:
 
-- Barr. Kapittel 4, 6 og 9
+- Barr. Kapittel 4, 6, 12 og 9
 - Boeri og van Ours. Kapittel 9, 12-13
 - NOU 2011:7. Kapittel: 3, 4 og 5
 
