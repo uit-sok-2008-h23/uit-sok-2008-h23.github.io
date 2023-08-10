@@ -3,11 +3,11 @@
 <!-- Gjør endringer under her -->
 
 # Tema 1 - Introduksjon til den nordiske modellen og arbeidsmarkedsøkonomi <a name="tema1"></a>
-Den første delen av dette temaet gir en introduksjon til den nordiske modellen samt en drøfting av det teoretiske grunnlaget for velferdsstaten. Den andre delen gir en introduksjon til arbeidsmarkedsøkonomi, der vi vil gå igjennom sentrale begreper og analysere individets tilbud av arbeid, bedrifters etterspørsel på arbeid, og likevekt under fullkommen konkurranse. I tillegg vil vi analysere effekter av markedsmakt på arbeidsmarkedet.
+Den første delen av dette temaet gir en introduksjon til den nordiske modellen samt en drøfting av det teoretiske grunnlaget for velferdsstaten. Den andre delen gir en introduksjon til arbeidsmarkedsøkonomi, der vi vil gå igjennom sentrale begreper og analysere individets tilbud av arbeid, bedrifters etterspørsel på arbeid, og likevekt under fullkommen konkurranse.
 
 ## Pensum
 ### Bøker og annen litteratur
-* Barr. The Economics of the Welfare state. Kapittel 1 og 2
+* Barr. The Economics of the Welfare state. Kapitler 1 og 2
 * Boeri og van Ours. The Economics of imperfect labor markets. Kapittel 1
 * NOU - 2011:7 - Velferd og migrasjon. Den norske modellens framtid. Kapittel 3.1-3.3
 
