@@ -85,7 +85,7 @@ Den nordiske modellen er kjennetegnet av nært samarbeid mellom myndighetene og 
 &nbsp;
 
 # Tema 4 - Inntektssikring <a name="tema4"></a>
-**Legg til introtekst!!**
+De norske inntektssikringsordningene har som mål å sikre en akseptabel inntekt når arbeidsinntekten faller bort av årsaker den enkelte ikke har kontroll over, som arbeidsledighet, uførhet eller sykdom.  Utformingen av inntektssikringssystemet kan bidra til å svekke de økonomiske insentivene til å delta på arbeidsmarkedetI dette temaet vil vi først gå gjennom de teoretiske argumentene hvorfor det offentlige tilbyr inntekts- og sosialforsikring. Deretter vil vi se på positive og negative effekter av trygd på arbeidsmarkedet. Vi vil både se på behovet av trygd og insentivproblemer med slike støtteordninger.
 
 ## Pensum
 ### Bøker og annen litteratur
@@ -123,7 +123,7 @@ Den nordiske modellen står overfor en rekke utfordringer. Befolkningen i vestli
 | Forelesning | Innhold | Pensum | 
 | ----------- |------- |----- | 
 | F5.1 | Migrasjon | Boeri og van Ours. Kapittel 9, NOU 2011:7 kapittel 3, 4 og 5|
-| F5.2 | En aldrende befolkning | Barr. Kapittel 12. NOU 2011:7 Kapittel ?? |
+| F5.2 | Fremtidige utfordringer for den norske modellen | Barr. Kapittel 12 |
 
 
 ### [Lenker til forelesningsnotater](forelesninger.md#f_t5) (oppdateres fortløpende)
