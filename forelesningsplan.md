@@ -4,16 +4,16 @@
 
 # Preliminær forelesnings- og seminarplan
 
-Undervisningen på SOK-2008 består av fysiske forelesninger, video-forelesninger og fysiske seminarer. 
+Undervisningen på SOK-2008 består av fysiske forelesninger, videoforelesninger og fysiske seminarer. 
 Forelesningene vil introdusere et tema. Videoforelesningene går igjennom teoretisk analyse (grafisk og matematisk). På seminarene vil vi jobbe med oppgaver knyttet til de forskjellige temaene. 
 
-Du velger selv når du tar del av videoforelesningene, men vi anbefaler at du ser på videoforelesningene som hører til et spesifikkt tema sammen med forelesningen på samme tema da vidoene vil hjelpe deg å løse oppgavene som blir brukt på seminarene og til å løse innleveringsoppgavene. 
+Du velger selv når du ser på videoforelesningene, men vi anbefaler at du ser på videoforelesningene som hører til et spesifikt tema sammen med forelesningen på samme tema da videoene vil hjelpe deg å løse oppgavene som blir brukt på seminarene og til å løse innleveringsoppgavene. 
 
-**NB! Datoer for fysiske forelesninger og seminar er preliminær og kan endres.** For oppdatert skjema, se [Timeplan.uit.no](https://timeplan.uit.no/emne_timeplan.php?sem=23h&module[]=SOK-2008-1#week-33)
+**NB! Datoer for fysiske forelesninger og seminar er preliminære og kan endres.** For oppdatert skjema, se [Timeplan.uit.no](https://timeplan.uit.no/emne_timeplan.php?sem=23h&module[]=SOK-2008-1#week-33)
 * Undervisningstype:
   * F = Forelesing
   * S = Seminar
-  * US = Utfodringsseminar
+  * US = Utfordringsseminar
   * FS = Feedbackseminar
 
 * Litteratur:
