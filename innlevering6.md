@@ -24,9 +24,9 @@ Litteratur:
 
 [Forelesningsnotater tema 5](forelesninger.md#f_t5)
 
-[Videoer tema 2](video.md#v_t4)
+[Videoer tema 4](video.md#v_t4)
 
-[Videoer tema 3](video.md#v_t5)
+[Videoer tema 5](video.md#v_t5)
 
 
  ## Lenke til flervalgstest
