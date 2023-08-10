@@ -25,10 +25,10 @@ Alle innleveringer har frist på en fredag kl 16:00.
 ## Flervalgtester (innlevering 1, 3, og 6)
 Flervalgtestene vil innholde 15 - 25 spørsmål. Hvert spørsmål vil ha fire svarsalternativer, der et svarsalternativ er riktig. Spørsmål blir trukket tilfeldig. Med andre ord vil ulike studenter kunne få ulike spørsmål, og ulike svarsalternativer. 
 
-Hvert flervalgstest vil finnes tilgjengelig under 2 dager. Du kan altså velge når du tar testen. Når du vel har startet testen vil du ha begrenset med tid til å ta testen. Tiden du har tilgjengelig vil avhenge antallet spørsmål i testen, men du kan forvente deg at du ikke har mer enn 5 minutter per spørsmål. Informasjon om tid til testen kommer noen dager før testen blir tilgjengelig. Det vil ikke være mulig å ta én test mer enn én gang.
+Hvert flervalgstest vil finnes tilgjengelig under 12 timer. Du kan altså velge når du tar testen i løpet av en dag. Når du vel har startet testen vil du ha begrenset med tid til å ta testen. Tiden du har tilgjengelig vil avhenge antallet spørsmål i testen, men du kan forvente deg at du ikke har mer enn 3 minutter per spørsmål. Informasjon om tid til testen kommer noen dager før testen blir tilgjengelig. Det vil ikke være mulig å ta én test mer enn én gang.
 
 ### Innlevering av flervalgstester
-Flervalgstestene vil enten bli gjennomført i Canvas, eller i Wiseflow. Vi vil gi beskjed om dette seinere. 
+Flervalgstestene vil enten bli gjennomført i Canvas.
 
 ### Evaluering av flervalgstester
 Poengen til flervalgtestene er basert på prosent antall riktige svar. Mer spesifikkt blir blir poenget beregnet ved bruk av følgende regel: **$\frac{(R-0.25\cdot F)}{T}\cdot 2$**, der $R$ er antall riktige svar, $F$ er feilsvar, og $T$ er totalt antall spørsmål i testen. Poenget blir avrundet til 1 desimal.
