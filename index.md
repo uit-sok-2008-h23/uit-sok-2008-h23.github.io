@@ -2,20 +2,20 @@
 
 
 ## Kursbeskrivelse 
-På innføringskursene i mikroøkonomien lærer man at samfunnets velferd blir maksimert under fullkommen konkurranse. I virkeligheten er de fleste markedene ufullkomne og preget av markedssvikt. Markedssvikt sammen med fordelingshensyn er årsaker til at offentlig sektor har en stor rolle i moderne økonomier.  De nordiske landene har store offentlig sektorer og høyt skattenivå, men også veldig høy levestandard. Dette forklares med den nordiske samfunnsmodellen. Sentrale trekk ved modellen er økonomisk styring, offentlig velferdspolitikk, og organisert arbeidsliv. 
+På innføringskursene i mikroøkonomien lærer man at samfunnets velferd blir maksimert under fullkommen konkurranse. I virkeligheten er de fleste markedene ufullkomne og preget av markedssvikt. Markedssvikt sammen med fordelingshensyn er årsaker til at offentlig sektor har en stor rolle i moderne økonomier.  De nordiske landene har store offentlige sektorer og høyt skattenivå, men også veldig høy levestandard. Dette forklares med den nordiske samfunnsmodellen. Sentrale trekk ved modellen er økonomisk styring, offentlig velferdspolitikk, og organisert arbeidsliv. 
 
 
 Formålet med kurset SOK-2008 «Den Nordiske modellen» er å gi innsikt i sentrale trekk ved den nordiske samfunnsmodellen, og å gi en forståelse av offentlig inngrep i økonomien og innblikk i velferdsøkonomiske problemstillinger. Det vil bli lagt spesiell vekt på de teoretiske argumentene bak velferdsordningenes innretning og omfang og på de insentivproblemene som oppstår i skjæringspunktet mellom velferdsstat og marked.
 
 ## Kursplan  
 
-Undervisningen på SOK-2008 består av fysiske forelesninger, video-forelesninger og fysiske seminarer. 
+Undervisningen på SOK-2008 består av fysiske forelesninger, videoforelesninger og fysiske seminarer. 
 Forelesningene vil introdusere et tema. Videoforelesningene går igjennom teoretisk analyse (grafisk og matematisk). På seminarene vil vi jobbe med oppgaver knyttet til de forskjellige temaene. 
 
-Du velger selv når du tar del av videoforelesningene, men vi anbefaler at du ser på videoforelesningene som hører til et spesifikkt tema sammen med forelesningen på samme tema da vidoene vil hjelpe deg å løse oppgavene som blir brukt på seminarene og til å løse innleveringsoppgavene. 
+Du velger selv når du ser på videoforelesningene, men vi anbefaler at du ser på videoforelesningene som hører til et spesifikkt tema sammen med forelesningen på samme tema da vidoene vil hjelpe deg å løse oppgavene som blir brukt på seminarene og til å løse innleveringsoppgavene. 
 
 Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
-Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
+Innleveringsplanen gir oppgaver, frister og ressurser knyttet til obligatoriske innleveringer.  
 
 - [Forelesnings- og seminarplan](forelesningsplan.html){:target="blank"}
 - [Innleveringsplan](innleveringer.html){:target="blank"}
@@ -31,7 +31,7 @@ Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligato
 
 ## Administrative spørsmål
 
-For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>. Der får du hjelp av Handelshøgskolens administrasjon.
+For henvendelser av administrativ art, send e-post til: <hhcampus@hjelp.uit.no>. Der får du hjelp av Handelshøgskolens administrasjon.
 
 
 ## Pensum 
@@ -51,10 +51,10 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:
 
 ## Innlevering og eksamen  
 
-Eksaminasjonen på kurset består av to deler: en mappeevaluering og en muntlig eksamen. De to delene teller likt til sluttkarakter. For å bestå kurset må du ha godkjent karakter på begge delene. Kurset har mappeevaluering.   
+Kurset har mappeevaluering, eksaminasjonen på kurset består av to deler: en mappeevaluering og en muntlig eksamen. De to delene teller likt til sluttkarakter. For å bestå kurset må du ha godkjent karakter på begge delene.    
 
 Frister, oppgaver og ressurser til mappeevalueringen finnes i [mappevaluering](mappeevaluering.html){:target="blank"}. 
 
-Informasjon om den muntlige eksamen finnes i [muntlig eksamen](muntligeksamen.html){:target="blank"}. 
+Informasjon om den muntlige eksamenen finnes i [muntlig eksamen](muntligeksamen.html){:target="blank"}. 
 
 
