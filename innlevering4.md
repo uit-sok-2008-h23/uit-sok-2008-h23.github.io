@@ -32,7 +32,7 @@ Innleveringene skal skje individuelt.
 
 Utfodringene skal leveres i Canvas. Kode og redegjørelser for bruk av kunstig intelligens leveres som appendiks i oppgaven (enten i et separat eller i samme dokument). 
 
-**NB: Det er utrolig viktig at du bruker følgende navn på din innlevering! "[ditt kandidatnummer]sok_2008_h23_utf1"**
+**NB: Det er utrolig viktig at du bruker følgende navn på din innlevering! "[ditt kandidatnummer]sok_2008_h23_utf2"**
 Vi trenger ditt kandidatnummer for å gi en eventuell klagekommisjon tilgang til din oppgave. 
  
 ### Evaluering
