@@ -28,13 +28,15 @@ Beskrivelse kommer
 Beskrivelse kommer
 
 ## Slik leverer du:
+Innleveringene skal skje individuelt. 
+
 Hver innleveringsoppgave leveres som en pdf-fil i en individuell mappe på Canvas. Eventuell kode leveres som pdf-fil på Canvas (gjerne i samme pdf-fil som løsningen på oppgaven) og lastes opp til GitHub. 
 
 [Se her](howtogithub.md) for å lese mer om hvordan man leverer på GitHub.
 
-Bruk følgende navn på: SOK-2008-2022-utfordring1
+**NB: Bruk følgende navn på din innlevering: "[ditt kandidatnummer]sok_2008_h23_utf1"**
+Vi trenger ditt kandidatnummer for å gi en eventuel klagekommisjon tilgang til dokumentene dine.
 
-Innleveringene skal skje individuelt. 
 
 ## Evaluering
 Du kan få 0, 1 eller 2 poeng. Din besvarelse blir evaluert etter regelen i tabell 1. 
