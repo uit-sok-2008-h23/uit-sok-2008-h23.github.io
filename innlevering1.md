@@ -6,8 +6,8 @@
 
 ### <span style="color:OrangeRed;"> Frist: 1. september kl 16:00 </span>
 
-Denne testen innholder spørsmål knyttet til tema 1. Hvert spørsmål har 1 riktig svar, og 3 feilsvar.
-Makspoeng på testen er 2 poeng. Din poeng på testen avhenger andel riktige svar og antall feilsvar. Poengen blir beregnet etter formelen:
+Denne testen innholder spørsmål knyttet til **tema 1**. Hvert spørsmål har 1 riktig svar, og 3 feilsvar.
+Makspoeng på testen er 2 poeng. Din poeng på testen avhenger andel riktige svar og antall feilsvar. Poengen blir beregnet etter regeln:  **$\frac{(R-0.25\cdot F)}{T}\cdot 2$**, der $R$ er antall riktige svar, $F$ er feilsvar, og $T$ er totalt antall spørsmål i testen. Poenget blir avrundet til 1 desimal.
 
 Testen skal tas individuelt. 
 
