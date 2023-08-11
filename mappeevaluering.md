@@ -15,7 +15,7 @@ Alle innleveringer har frist på en fredag kl 16:00.
 
 | **Innlevering** | **Frist** |
 | ------------- |------- |
-| [Innlevering 1 - Flervalgtest](innlevering1.md) | <span style="color:OrangeRed;">1.  september 16:00</span>  |
+| [Innlevering 1 - Flervalgtest](innlevering1.md) | <span style="color:OrangeRed;">8.  september 16:00</span>  |
 | [Innlevering 2 - Utfordring 1](innlevering2.md) | <span style="color:OrangeRed;">22. september 16:00</span> |
 | [Innlevering 3 - Flervalgtest](innlevering3.md) | <span style="color:OrangeRed;">13.  oktober 16:00</span> |
 | [Innlevering 4 - Utfordring 2](innlevering4.md) | <span style="color:OrangeRed;">20. oktober 16:00</span> |
