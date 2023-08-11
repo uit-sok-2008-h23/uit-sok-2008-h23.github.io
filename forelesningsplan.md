@@ -25,8 +25,8 @@ Du velger selv når du ser på videoforelesningene, men vi anbefaler at du ser p
 | Uke | Mandag | Tirsdag | Onsdag | Torsdag | Fredag |
 | ---|------ | ------- | ------ | ------- | ------ |
 | 33 |       |         | F - Intro til kurset | F1.1 - [Tema 1](temaer.md#tema1) <br> NOU 2021:9| |
-| 34 |       | F1.2 <br> Barr. k. 1 - 2   | F1.3  <br> BO. k. 1 | S1.1   | Frist - [Flervalgstest 1](innlevering1.md) |
-| 35 |       |  | | | |
+| 34 |       | F1.2 <br> Barr. k. 1 - 2   | F1.3  <br> BO. k. 1 | S1.1   | |
+| 35 |       |  | | |Frist - [Flervalgstest 1](innlevering1.md) |
 | 36 |       | F2.1 - [Tema 2](temaer.md#tema2) <br> BO. k.5 | F2.2 <br> BO. k.7  | S2.1   | |
 | 37 |       | F2.3 <br> Barr. 10-11   | F2.4  <br> Barr. k3, 9 | S2.2   | |
 | 38 |       |US - [Utfordring 1](innlevering2.md)| | | Frist - [Utfordring 1](innlevering2.md)|
