@@ -32,7 +32,7 @@ I den første delen skal du besvare to generelle spørsmål. Du vil ha totalt 10
 * Foreslått tidsbruk: 2 minutter. 
 2. **Hvilke er de teoretiske argumentene for den nordiske modellen?**
 * *Instruksjon*: Her skal du først forklare hvordan og under hvilke forutsetninger markedet selv kan oppnå målene til den nordiske modellen. Du skal deretter beskrive teoretiske argumenter til hvorfor private markeder likevel kanskje ikke klarer å oppnå disse målene (det vil si, hvorfor offentlige inngreper kan være motiverte). Du skal ta opp økonomiske argumenter knyttet både til effektivitet og rettferdighet.
-* Maks poeng: 5 poeng.
+* Maks poeng: 6 poeng.
 * Foreslått tidsbruk: 8 minutter.
 
 Etter din presentasjon vil sensorene kunne stille spørsmål til presentasjonen din.
@@ -42,7 +42,7 @@ I den andre delen vil du få spørsmål knyttet til **inneboende problemer som f
 
 * *Instruksjon*: For at den nordiske modellen skal være bærekraftig må finansieringen av velferdsordningene sikres. Hva trengs for å få til denne finansieringen og hvilke trusler finns det mot finansieringen? Fokuser på økonomiske argumenter og teori i din besvarelse! 
 
-* Maks poeng: 5 poeng.
+* Maks poeng: 6 poeng.
 * Tid: 10 minutter
 
 ## Regler
