@@ -6,6 +6,7 @@
 Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortløpende.
 
 ## Introduksjon til kurset
+* [Kursintroduksjon del 1](https://uit-sok-2008-h23.github.io/assets/F0_kursintro_1_sok_2008_h23.pdf)
 
 ## Forelesninger [Tema 1](temaer.md#tema1)<a name="f_t1"></a>
 Her finner du forelesningsnotater knyttet til Tema 1
