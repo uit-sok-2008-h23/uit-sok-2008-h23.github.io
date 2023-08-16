@@ -7,6 +7,7 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 
 ## Introduksjon til kurset
 * [Kursintroduksjon del 1](https://uit-sok-2008-h23.github.io/assets/F0_kursintro_1_sok_2008_h23.pdf)
+* [Kursintroduksjon del 2: Introduksjon til den nordiske modellen](https://htmlpreview.github.io/?https://github.com/uit-sok-2008-h23/uit-sok-2008-h23.github.io/blob/main/assets/Introduksjon_studenter_2023.html)
 
 ## Forelesninger [Tema 1](temaer.md#tema1)<a name="f_t1"></a>
 Her finner du forelesningsnotater knyttet til Tema 1
