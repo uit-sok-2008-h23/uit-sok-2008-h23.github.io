@@ -10,7 +10,7 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 * [Kursintroduksjon del 2: Introduksjon til den nordiske modellen](https://htmlpreview.github.io/?https://github.com/uit-sok-2008-h23/uit-sok-2008-h23.github.io/blob/main/assets/Introduksjon_studenter_2023.html)
 
 ## Forelesninger [Tema 1](temaer.md#tema1)<a name="f_t1"></a>
-Her finner du forelesningsnotater knyttet til Tema 1
+[Den norske velferdsmodellen](https://htmlpreview.github.io/?https://github.com/uit-sok-2008-h23/uit-sok-2008-h23.github.io/blob/main/assets/forelesning_2_modellen_studenter.html)
 
 ## Forelesninger [Tema 2](temaer.md#tema2)<a name="f_t2"></a>
 Her finner du forelesningsnotater knyttet til Tema 2
