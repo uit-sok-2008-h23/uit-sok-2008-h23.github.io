@@ -7,11 +7,11 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 
 ## Introduksjon til kurset
 * [Kursintroduksjon del 1](https://uit-sok-2008-h23.github.io/assets/F0_kursintro_1_sok_2008_h23.pdf)
-* [Kursintroduksjon del 2: Introduksjon til den nordiske modellen](https://htmlpreview.github.io/?https://github.com/uit-sok-2008-h23/uit-sok-2008-h23.github.io/blob/main/assets/Introduksjon_studenter_2023.html)
+* [Kursintroduksjon del 2: Introduksjon til den nordiske modellen](https://uit-sok-2008-h23.github.io/assets/Introduksjon_studenter_2023.html)
 
 ## Forelesninger [Tema 1](temaer.md#tema1)<a name="f_t1"></a>
-* [F1:1 Den norske velferdsmodellen](uit-sok-2008-h23.github.io/assets/forelesning_2_modellen_studenter.html)
-* [F1:2 Velferdsstaten og Politisk teori](uit-sok-2008-h23.github.io/assets/f2_kap_1_2_studenter.html)
+* [F1:1 Den norske velferdsmodellen](https://uit-sok-2008-h23.github.io/assets/forelesning_2_modellen_studenter.html)
+* [F1:2 Velferdsstaten og Politisk teori](https://uit-sok-2008-h23.github.io/assets/f2_kap_1_2_studenter.html)
 * [F1.3 Introduksjon til arbeidsmarkedsøkonomi](https://uit-sok-2008-h23.github.io/assets/F1.3_IntrotilArbeidsmarkedsokonomi.pdf)
 
 ## Forelesninger [Tema 2](temaer.md#tema2)<a name="f_t2"></a>
