@@ -15,7 +15,8 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 * [F1.3 Introduksjon til arbeidsmarkedsøkonomi](https://uit-sok-2008-h23.github.io/assets/F1.3_IntrotilArbeidsmarkedsokonomi.pdf)
 
 ## Forelesninger [Tema 2](temaer.md#tema2)<a name="f_t2"></a>
-Her finner du forelesningsnotater knyttet til Tema 2
+* [F2.1 Introduktion till tema 2 og Arbeidstidsregulering](https://uit-sok-2008-h23.github.io/assets/F2.1_arbeidstidsregulering_23.pdf)
+* [F2.2 Familiepolitikk](https://uit-sok-2008-h23.github.io/assets/F2.2_familiepolitikk_23.pdf)
 
 ## Forelesninger [Tema 3](temaer.md#tema3)<a name="f_t3"></a>
 Her finner du forelesningsnotater knyttet til Tema 3
