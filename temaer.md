@@ -25,6 +25,7 @@ Den første delen av dette temaet gir en introduksjon til den nordiske modellen 
 
 ## Støtteressurser
 
+* [Introduksjon til arbeidsmarkedsøkonomi - Individets tilbud og bedriftens etterspørsel på arbeid](https://scholar.harvard.edu/files/gborjas/files/lechapter2.pdf)
 * [Sånn er Norge - Episode 1, Sesong 1](https://tv.nrk.no/serie/harald-eia-presenterer-saann-er-norge/sesong/1/episode/1/avspiller)
 * [Sånn er Norge - Episode 2, Sesong 1](https://tv.nrk.no/serie/harald-eia-presenterer-saann-er-norge/sesong/1/episode/2/avspiller)
 * [Sånn er Norge - Episode 5, Sesong 1](https://tv.nrk.no/serie/harald-eia-presenterer-saann-er-norge/sesong/1/episode/5/avspiller)
