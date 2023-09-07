@@ -8,8 +8,6 @@ Her finner du lenker til alle video-forelesninger på kurset. Siden oppdateres f
 
 ## Videoer [Tema 1](tema1.md)<a name="v_t1"></a>
 Her finner du video-forelesninger lenket til Tema 1
-* [v1.1 - Bytteeffektivitet](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a93ae20e-e503-4efc-9ee3-aef600e3f9be)
-* [v1.2 - Skatteinsidens](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9750c2d9-7d3f-4928-b662-aef600ebf013)
 * [v1.3 - Individets optimale valg av konsum og fritid. Grafisk analyse](https://youtu.be/nqe0E1qLSmI)
 * [v1.4 - Individets optimale valg av konsum og fritid. Matematisk analyse](https://youtu.be/8oLRvFDe88c)
 * [v1.5 - Inntekts og subsitusjonseffekter, individets tilbud av arbeid](https://youtu.be/phJHHZUhcUk)
@@ -20,7 +18,9 @@ Her finner du video-forelesninger lenket til Tema 2
 * [v.2.1 - Bedriftens valg av arbeidere og arbeidstimer](https://youtu.be/BSHxDzhnISg)
 * [v.2.2 - Effekter av redusert standard arbeidstid](https://youtu.be/uVQ0fRR7LhA)
 * [v.2.3 - Subsidiert barnepass](https://youtu.be/QiadrXoINz4)
-* [v.2.4 - Egenandel og overforbruk av helsetjenester](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b782e535-0245-4a31-82cc-af4000efdd91)
+* [v.2.4 - Bytteeffektivitet](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a93ae20e-e503-4efc-9ee3-aef600e3f9be)
+* [v.2.5 - Skatteinsidens](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9750c2d9-7d3f-4928-b662-aef600ebf013)
+* [v.2.6 - Egenandel og overforbruk av helsetjenester](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b782e535-0245-4a31-82cc-af4000efdd91)
 
 
 ## Videoer [Tema 3](tema3.md)<a name="v_t3"></a>
