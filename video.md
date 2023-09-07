@@ -21,7 +21,11 @@ Her finner du video-forelesninger lenket til Tema 2
 * [v.2.4 - Bytteeffektivitet](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a93ae20e-e503-4efc-9ee3-aef600e3f9be)
 * [v.2.5 - Skatteinsidens](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9750c2d9-7d3f-4928-b662-aef600ebf013)
 * [v.2.6 - Egenandel og overforbruk av helsetjenester](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b782e535-0245-4a31-82cc-af4000efdd91)
-
+* v.2.7 - Gjennomgang av uheldig utvalg (Figur 4.2) av professor Ashley Hodgson
+  * [Del 1](https://www.youtube.com/watch?v=surN9HrBppw)
+  * [Del 2](https://www.youtube.com/watch?v=9RujVAT4Kl4)
+  * [Del 3](https://www.youtube.com/watch?v=U7NWx2bU0-U)
+  * [Del 4](https://www.youtube.com/watch?v=yjOqTHs0XAI)
 
 ## Videoer [Tema 3](tema3.md)<a name="v_t3"></a>
 Her finner du video-forelesninger lenket til Tema 3
