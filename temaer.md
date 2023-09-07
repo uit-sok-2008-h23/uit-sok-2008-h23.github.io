@@ -48,7 +48,7 @@ Høy yrkesdeltakelse er en forutsetning for at den nordiske modellen skal oppret
 | F2.1 | Arbeidstidsregulering | Boeri og van Ours. Kapittel 5|
 | F2.2 | Familiepolitikk | Boeri og van Ours. Kapittel 7 |
 | F2.3 | Utdanning | Barr. Kapittel 3 og 10 - 11 |
-| F2.4 | Helsetjenester | Barr. Kapittel 3 og 9  |
+| F2.4 | Helsetjenester | Barr. Kapittel 3, 4 og 9  |
 
 ### [Lenker til forelesningsnotater](forelesninger.md#f_t2) (oppdateres fortløpende)
 
