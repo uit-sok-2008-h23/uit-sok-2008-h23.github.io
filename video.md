@@ -41,7 +41,7 @@ Her finner du video-forelesninger lenket til Tema 4
 
 * [v.4.1 - Arbeidsledighetstrygd (dagpenger)](https://youtu.be/PIK38cpDgOY)
 * [v.4.2 - Individuell etterspørsel etter forsikring (Figur 4.1 i Barr)](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8bd681e4-240d-495a-a351-aefa0088ddbb)
-* v.4.3 - Teoretisk gjennomgang av uheldig seleksjon (Figur 4.2) av professor Ashley Hodgson
+* v.4.3 - Teoretisk gjennomgang av uheldig utvalg (Figur 4.2) av professor Ashley Hodgson
   * [Del 1](https://www.youtube.com/watch?v=surN9HrBppw)
   * [Del 2](https://www.youtube.com/watch?v=9RujVAT4Kl4)
   * [Del 3](https://www.youtube.com/watch?v=U7NWx2bU0-U)
