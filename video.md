@@ -26,7 +26,11 @@ Her finner du video-forelesninger lenket til Tema 2
   * [Del 2](https://www.youtube.com/watch?v=9RujVAT4Kl4)
   * [Del 3](https://www.youtube.com/watch?v=U7NWx2bU0-U)
   * [Del 4](https://www.youtube.com/watch?v=yjOqTHs0XAI)
-
+* [v.2.8 -Positive eksternaliteter i utdanning](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bdf5491f-ea5a-4aa7-902a-b07700b68bc8)
+* [v.2.9 - Positive eksternaliteter i utdanning og subsidiering](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bdae9fe8-66d1-48b5-b7aa-b07700b543a4)
+* [v.2.10 - Velferdsgevinster av helseforsikring](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c06b2713-ad3e-4e86-8d9f-b07700b670b3)
+* [v.2.11 - Informasjonsproblemer som markedssvikt i utdanning](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e52f278b-641b-474a-a513-b07700b670b0)
+  
 ## Videoer [Tema 3](tema3.md)<a name="v_t3"></a>
 Her finner du video-forelesninger lenket til Tema 3
 * [v.3.1 - Monopsoni på arbeidsmarkedet](https://youtu.be/I3l3wnAVugs)
