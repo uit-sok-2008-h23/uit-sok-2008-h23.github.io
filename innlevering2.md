@@ -3,11 +3,20 @@
 <!-- Gjør endringer under her -->
 
 # Utfordring 1
+## Innlevering
+Innleveringene skal skje individuelt.
+
+Utfodringene skal leveres i Canvas. **Kode og redegjørelser for bruk av kunstig intelligens leveres som appendiks** i oppgaven (enten i et separat eller i samme dokument). 
+
 ### <span style="color:OrangeRed;"> Frist: 22. september kl 16:00 </span>
+
+**NB: Det er utrolig viktig at du bruker følgende navn på din innlevering! "[ditt kandidatnummer]sok_2008_h23_utf1"**
+Vi trenger ditt kandidatnummer for å gi en eventuell klagekommisjon tilgang til din oppgave. 
+
 Du finner detaljert informasjon og tips om hvordan skrive en god besvarelse nederst på denne siden.
 Du vil få mulighet å jobbe med oppgavene på et utfordringsseminar knyttet til temaet. Forelesere på kurset vil være tilstede for å svare på spørsmål. 
 
-**Førberedelser og støtte:**
+## Førberedelser og støtte
 
 Litteratur:
 
@@ -18,24 +27,23 @@ Litteratur:
 
 [Videoer](video.md#v_t1)
 
-# Oppgaver
-## Utfordring 1.1
+## Oppgaver
+### Utfordring 1.1
 
-Beskrivelse kommer
+* Statistisk Sentral Byrå (SSB) har [data](https://data.ssb.no/api/v0/no/table/04544/) (tabell 04544) som viser gjennomsnittlig antall arbeidstimer blant menn og kvinner i Norge. Bruk disse dataene for å vise **empiriske kjønnsforskjeller i valg av arbeidstimer for menn og kvinner**. Forklar dine empiriske observasjoner **ved bruk av økonomisk teori**. Din forklaring skal inneholde grafisk illustrasjon av teorien. NB: i denne oppgaven skal du fokusere på forskjeller mellom menn og kvinner.  
+* [Dette datasettet](https://github.com/uit-sok-2008-h23/uit-sok-2008-h23.github.io/blob/main/assets/women.csv) inneholder informasjon om generøsiteten av foreldrepermisjonsordninger og mødres yrkesdeltakelse i 24 OECD land i 2021. For å gjøre ulike lands rettigheter sammenlignbare presenteres permisjonsordningenes gunstighet ved hjelp av «full rate equivalent» (uker med 100% støtte), hvilket tilsvarer foreldrepermisjonens varighet i uker multiplisert med utbetalingssats i prosent av gjennomsnittlig inntekt. Variabelen «tot_full_rate» beskriver sysselsettingsraten i befolkningen (menn og kvinner). **Bruk datasettet til å lage to diagrammer som viser sammenhengen mellom lengde på betalt foreldrepermisjon og yrkesdeltakelse blant kvinner**. I det ene diagrammet skal du bruke data som beskriver sysselsetting blant kvinner med barn i alderen 0-2 år (fem_emp_rate_0_2), og det andre skal du bruke data på kvinner med barn i alderen 6-14 år (fem_emp_rate_6_14). Diskuter, basert på disse diagrammene og økonomisk teori, følgende påstand: «Gunstige permisjonsordninger ved fødsel sikrer høy yrkesdeltakelse blant kvinner på lang sikt». 
+* Forklar hvorfor høy yrkesdeltakelse blant norske kvinner og høye barnetall er viktig for at den norske velferdsmodellen skal være økonomisk bærekraftig.
 
-## Utfordring 1.2
 
-Beskrivelse kommer
+### Utfordring 1.2
 
-### Innlevering
-Innleveringene skal skje individuelt.
+I en tid med økende helsetjenestekostnader og begrensede offentlige budsjetter vurderer mange europeiske land økte egenandeler som et verktøy for å påvirke etterspørselen etter helsetjenester og redusere atferdsrisiko. Sammenligning av nivåene av brukerbetaling (egenandel) for ulike helsetjenester mellom land kan gi innsikt i hvordan brukerbetaling påvirker forbruket av helse-tjenester. Bruk datasettet hlth_sha11_hf fra Eurostat for år 2019 i din besvarelse. 
+* Lag et punktdiagram som viser sammenhengen mellom andelen av egenbetalinger (Household out-of-pocket payment, på x-aksen) og helsetjenesteforbruk pr. innbygger (Purchasing power standard (PPS) per inhabitant, på y-aksen) i europeiske land.  Forklar sammenhengen mellom variablene du ser i figuren og gjør også rede for om det er korrelasjon mellom variablene i dette datasettet.
+* Forklar hvordan økt egenbetaling påvirker helsetjenesteforbruk og øker effektiviteten **ved å bruke økonomisk teori om atferdsrisiko** du har lært på kursets forelesninger og videoforelesninger. Bruk diagram(mer) i din besvarelse.
+* Diskuter fordelingseffekter av økte egenandeler.
 
-Utfodringene skal leveres i Canvas. Kode og redegjørelser for bruk av kunstig intelligens leveres som appendiks i oppgaven (enten i et separat eller i samme dokument). 
-
-**NB: Det er utrolig viktig at du bruker følgende navn på din innlevering! "[ditt kandidatnummer]sok_2008_h23_utf1"**
-Vi trenger ditt kandidatnummer for å gi en eventuell klagekommisjon tilgang til din oppgave. 
  
-### Evaluering
+## Evaluering
 Utfordringene blir bedømt i henhold til regelen i Tabell 2. Det vil være mulig å få 0.5 og 1.5 poeng på utfordringene.
 
 **NB: Utfordringen består av flere deloppgaver. Envher av disse deloppgaver må besvares. Hvis en av deloppgavene ikke er besvart, eller er besvart svært ufullstendig eller felaktig, er det fullt mulig å få null poeng på innleveringen.**
@@ -58,9 +66,9 @@ Hver innlevering **skal** inneholde en deklarasjon om bruk av KI. Deklarasjonen 
 
 Dersom du bruker kunstig intelligens for å løse oppgaven skal du oppgi hvilken KI du brukte. Du må også gjøre rede for de spørsmål du stilte til KI:n, hvilket svar du fikk, og i hvilken grad du endret svaret/koden fra KI:n. Regegjørelsen skal leveres som et appendiks til oppgaven. Dersom du ikke gjør rede for ditt bruk av KI:n, vil oppdekket bruk ses som juks. Du er selv ansvarlig for å sjekke innholdet i besvarelsen fra KI-verktøyet (ikke alt er riktig!), og du må passe på at besvarelsen din flyter godt (det vil trekke ned dersom sensoren ser tydelige forskjeller mellom egen tekst og tekst som er generert av KI).
 
-### Tips og triks for hvordan du skriver en god besvarelse
+## Tips og triks for hvordan du skriver en god besvarelse
 
-#### Generelle tips
+### Generelle tips
 
 1. Skriv kortfattet og tydelig
 2. Gå igjennom språket. Oppgaven skal skrives på godt akademisk språk, ikke i taleform.
