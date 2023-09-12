@@ -18,7 +18,7 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 * [F2.1 Introduktion till tema 2 og Arbeidstidsregulering](https://uit-sok-2008-h23.github.io/assets/F2.1_arbeidstidsregulering_23.pdf)
 * [F2.2 Familiepolitikk](https://uit-sok-2008-h23.github.io/assets/F2.2_familiepolitikk_23.pdf)
 * [F2.3a Økonomisk teori og offentlige inngrep (kap.3)](https://uit-sok-2008-h23.github.io/assets/f4_kap_3_2023_studenter.html)
-* [F2.3b Utdanning og offentlige inngrep (kap. 10 og 11)]((https://uit-sok-2008-h23.github.io/assets/kap_10_11_studenter_2023.html)
+* [F2.3b Utdanning og offentlige inngrep (kap. 10 og 11)](https://uit-sok-2008-h23.github.io/assets/kap_10_11_studenter_2023.html)
   
 ## Forelesninger [Tema 3](temaer.md#tema3)<a name="f_t3"></a>
 Her finner du forelesningsnotater knyttet til Tema 3
