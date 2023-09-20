@@ -19,13 +19,24 @@ Litteratur:
 [Videoer](video.md#v_t1)
 
 # Oppgaver
-## Utfordring 2.1
+## Utfordring 2.1 - Minstelønn
+1. Bruk økonomisk teori og grafisk analyse til å gi intuisjon til begge disse påstandene:
 
-Beskrivelse kommer
+   * «Minstelønninger fører til **økt** fattigdom».
+   * «Minstelønninger fører til **mindre** fattigdom». 
 
-## Utfordring 2.2
+2. Eurostat har data på minstelønninger i prosent av gjennomsnittlig bruttoinntekt (earn_mw_avgr2) og sysselsetting (lfsi_emp_a). Hent ut data for sysselsetting i befolkningen i alderen 20 -64, og minstelønn som andel av gjennomsnittlig inntekt for året 2021. Lag en graf som illustrerer sammenhengen. Dersom du bruker ggplot i Rstudio, kan du bruke kommandoen: «geom_smooth(method=lm, se=FALSE)» til å få fram en korrelasjonslinje.
+  
+   *	Hvilken av påstandene i Utfordring 2.1.1 ser den observerte sammenhengen ut å gi støtte til?
+   *	Sammenhengen mellom nivået på minstelønn og arbeidsledighetsraten er en korrelasjon. Diskuter årsaker til at vi ikke kan trekke konklusjonen at denne Sammenhengen mellom nivået på minstelønn og arbeidsledighetsraten er en korrelasjon. Diskuter årsaker til at vi ikke kan trekke konklusjonen at denne korrelasjonen indikerer et kausalt samband, og beskriv en metode som kan hjelpe til å identifisere kausale effekter.   
 
-Beskrivelse kommer
+## Utfordring 2.2 - Fagforeninger
+
+1. Bruk økonomisk teori og grafisk analyse til å gi intuisjon til påstanden «Sterke fagforeninger reduserer velferden».
+   
+3. OECD har informasjon om organisasjonsgraden i fagforeninger (union density) og arbeidsledighetsraten i ulike land. Datasettet «TUD» i R-pakken oecd inneholder data på organisasjonsgrad (ObsValue = organisasjonsgrad). Datasettet «MIG_NUP_RATES_GENDER» inneholder informasjon om arbeidsledighet i ulike grupper (ObsValue = arbeidsledighetsrate). Bruk data for år 2018, og for begge kjønn (GENDER = TOT). Dersom du bruker ggplot i Rstudio, kan du bruke kommandoen: «geom_smooth(method=lm, se=FALSE)» til å få fram en korrelasjonslinje. 
+
+   * Bruk data for innenlandsfødte (BIRTH = NB) og utenlandsfødte (BIRTH  = FB) til å lage to grafer som viser sammenhengen mellom organisasjonsgraden i fagforeninger og nivået på arbeidsledigheten i ulike land for de to gruppene. Diskuter dine empiriske observasjoner ut fra økonomisk teori om forhandling mellom arbeidsmarkedets parter og medlemsbasens sammensetning. 
 
 ### Innlevering
 Innleveringene skal skje individuelt.
