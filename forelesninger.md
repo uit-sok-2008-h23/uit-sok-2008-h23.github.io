@@ -22,7 +22,7 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 * [F2.4 Helsetjenester og helseforsikring (kap. 4 og 9](https://uit-sok-2008-h23.github.io/assets/kap_9_2023_studenter.html)
   
 ## Forelesninger [Tema 3](temaer.md#tema3)<a name="f_t3"></a>
-Her finner du forelesningsnotater knyttet til Tema 3
+* [F3.1 Introduktion till tema 3 og Minstelønn](https://uit-sok-2008-h23.github.io/assets/F.3.1_minstelønn.pdf)
 
 
 ## Forelesninger [Tema 4](temaer.md#tema4)<a name="f_t4"></a>
