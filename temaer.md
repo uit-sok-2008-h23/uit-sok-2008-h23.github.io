@@ -81,6 +81,9 @@ Den nordiske modellen er kjennetegnet av nært samarbeid mellom myndighetene og 
 
 ## Støtteressurser
 * [Sånn er Norge - Episode 4, Sesong 1](https://tv.nrk.no/serie/harald-eia-presenterer-saann-er-norge/sesong/1/episode/4/avspiller)
+* [Freakonomics: The true story of the minimum-wage fight (ep 460)](https://freakonomics.com/podcast/the-true-story-of-the-minimum-wage-fight-ep-460/)
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 
