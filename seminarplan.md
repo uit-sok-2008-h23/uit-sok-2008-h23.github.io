@@ -16,4 +16,5 @@
 * [Seminar 2.2](https://uit-sok-2008-h23.github.io/assets/seminar_tema2_2.html)
 * [Seminar 2.2 - Løsning](https://uit-sok-2008-h23.github.io/assets/seminar_tema_2_2_solutions.html)
 ### Tema 3
+* [Seminar 3.1](https://uit-sok-2008-h23.github.io/assets/ls_seminar_T3_tilstudenter.html)
 ### Tema 4
