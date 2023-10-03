@@ -8,6 +8,7 @@
 ### Tema 1
 * [Seminar 1.1](https://uit-sok-2008-h23.github.io/assets/S1.1_LS.pdf)
 * [Seminar 1.2 - Løsning](https://htmlpreview.github.io/?https://github.com/uit-sok-2008-h23/uit-sok-2008-h23.github.io/blob/master/assets/seminar_1_2023.html)
+  
 
 
 ### Tema 2
@@ -15,6 +16,8 @@
 * [Seminar 2.1 - Løsning](https://uit-sok-2008-h23.github.io/assets/Seminar_T2.1_losning.pdf)
 * [Seminar 2.2](https://uit-sok-2008-h23.github.io/assets/seminar_tema2_2.html)
 * [Seminar 2.2 - Løsning](https://uit-sok-2008-h23.github.io/assets/seminar_tema_2_2_solutions.html)
+* [Feedback-seminar utfordring 1](https://uit-sok-2008-h23.github.io/assets/feedbackseminar_1.pdf)
+  
 ### Tema 3
 * [Seminar 3.1](https://uit-sok-2008-h23.github.io/assets/ls_seminar_T3_tilstudenter.html)
 * [Hjelpe-dokument for å lage figurene til seminar 3.1 i R](https://uit-sok-2008-h23.github.io/assets/Kode_Minstelønn_og_fagforeninger.txt)
