@@ -28,7 +28,7 @@ Litteratur:
 2. Eurostat har data på minstelønninger i prosent av gjennomsnittlig bruttoinntekt (earn_mw_avgr2) og sysselsetting (lfsi_emp_a). Hent ut data for sysselsetting i befolkningen i alderen 20 -64, og minstelønn som andel av gjennomsnittlig inntekt for året 2021. Lag en graf som illustrerer sammenhengen. Dersom du bruker ggplot i Rstudio, kan du bruke kommandoen: «geom_smooth(method=lm, se=FALSE)» til å få fram en korrelasjonslinje.
   
    *	Hvilken av påstandene i Utfordring 2.1.1 ser den observerte sammenhengen ut å gi støtte til?
-   *	Sammenhengen mellom nivået på minstelønn og arbeidsledighetsraten er en korrelasjon. Diskuter årsaker til at vi ikke kan trekke konklusjonen at denne Sammenhengen mellom nivået på minstelønn og arbeidsledighetsraten er en korrelasjon. Diskuter årsaker til at vi ikke kan trekke konklusjonen at denne korrelasjonen indikerer et kausalt samband, og beskriv en metode som kan hjelpe til å identifisere kausale effekter.   
+   *	Sammenhengen mellom nivået på minstelønn og arbeidsledighetsraten er en korrelasjon. Diskuter årsaker til at vi ikke kan trekke konklusjonen at denne korrelasjonen indikerer et kausalt samband, og beskriv en metode som kan hjelpe til å identifisere kausale effekter.   
 
 ## Utfordring 2.2 - Fagforeninger
 
