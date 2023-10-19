@@ -29,6 +29,8 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 ## Forelesninger [Tema 4](temaer.md#tema4)<a name="f_t4"></a>
 * [Sosialforsikring, del 1, kap. 6](https://uit-sok-2008-h23.github.io/assets/kap_6_studenter.html)
 * [Sosialforsikring, del 2, disinsentiveffekter, kap. 6](https://uit-sok-2008-h23.github.io/assets/kap_6_insentiv_studenter.html)
+* [Arbeidsledighetstrygd, kap. 12](https://uit-sok-2008-h23.github.io/assets/F4.3_Arbeidsledighetstrygd_2023.pdf)
+
 
 
 ## Forelesninger [Tema 5](temaer.md#tema5)<a name="f_t5"></a>
