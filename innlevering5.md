@@ -20,12 +20,48 @@ Litteratur:
 
 # Oppgaver
 ## Utfordring 3.1
+### 3.1.1
+Tone har nytte av sammensatt konsum og fritid. Gå ut ifra at Tone sin
+nytte kan beskrives ved bruk av Cobb-Douglas funksjonen her nede:
 
-Beskrivelse kommer
+$$U(c,l) = c^{\theta} \cdot l^{1 - \theta},$$
+
+der $\theta = 0.5.$
+
+Tone har en arbeidsfri inntekt ($m$) lik 100 (i ti-tall kroner). Hun kan
+ikke velge sin arbeidstid fritt. Dersom Tone jobber, må hun jobbe $40$
+timer per uke. Hun kan maksimalt jobbe $60$ timer per uke
+($l_{0} = 60$). Dersom Tone ikke tar en jobb, har hun tilgang til
+stønad.
+
+Gå ut ifra at arbeidsmarkedet er «perfekt». Utled Tone sin statiske
+reservasjonslønn i disse to situasjonene: 1) stønaden er lik null, 2)
+stønaden er lik $100$. Gjør rede for dine matematiske beregninger.
+
+Gi økonomisk intuisjon til hvorfor reservasjonslønna er ulik i disse to
+situasjonene. Illustrer grafisk. Du finne støtte til hvordan du kan lage
+grafer i dette dokumentet.
+
+### 3.1.2
+Arbeidsmarkedet er sjelden perfekt. Forklar hvilke effekter trygd har på
+arbeidsmarkedet da arbeidsmarkedet er ufullkomment.
 
 ## Utfordring 3.2
+a)  Studer teksten i sangen *Tredagern* av Gatas parlament. Bruk data
+    fra denne [tabellen](https://www.ssb.no/statbank/table/12441/) for å
+    vise hvordan egenmeldinger i næringen som sangpersonen jobber i (la
+    oss si industri) har utviklet siden sangen ble utgitt. Lag en figur
+    og diskuter dine funn.
 
-Beskrivelse kommer
+b)  Beskriv disinsentivproblemet knyttet til sangen **ved hjelp av
+    økonomisk teori du har lært på dette kurset**. Bruk diagram i din
+    besvarelse. Gjør rede for antakelsene i modellen. Husk å forklare
+    økonomisk intuisjon.
+
+c)  Hvilket virkemiddel ville du som samfunnsøkonom foreslått for å
+    redusere disinsentiveffekten i sangen? **Bruk økonomisk teori du har
+    lært på dette kurset** til å svare på dette spørsmålet. Bruk diagram
+    i din besvarelse. Husk å forklare økonomisk intuisjon.
 
 ### Innlevering
 Innleveringene skal skje individuelt.
