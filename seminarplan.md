@@ -24,3 +24,4 @@
 * [Hjelpe-dokument for å lage figurene til seminar 3.1 i R](https://uit-sok-2008-h23.github.io/assets/Kode_Minstelønn_og_fagforeninger.txt)
 * [Hjelpe-dokument for å lage figurene til seminar 3.1 i R (qmd-fil)](https://uit-sok-2008-h23.github.io/assets/seminar_3.1_kode.qmd)
 ### Tema 4
+* [Seminar 4](https://uit-sok-2008-h23.github.io/assets/seminar_4.html)
