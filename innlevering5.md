@@ -40,7 +40,7 @@ stønaden er lik $100$. Gjør rede for dine matematiske beregninger.
 
 Gi økonomisk intuisjon til hvorfor reservasjonslønna er ulik i disse to
 situasjonene. Illustrer grafisk. Du finne støtte til hvordan du kan lage
-grafer i dette dokumentet.
+grafer i [dette dokumentet]().
 
 ### 3.1.2
 Arbeidsmarkedet er sjelden perfekt. Forklar hvilke effekter trygd har på
