@@ -23,7 +23,9 @@
 * [Seminar 3.1 - med figurer](https://uit-sok-2008-h23.github.io/assets/seminar_T3.1.html)
 * [Hjelpe-dokument for å lage figurene til seminar 3.1 i R](https://uit-sok-2008-h23.github.io/assets/Kode_Minstelønn_og_fagforeninger.txt)
 * [Hjelpe-dokument for å lage figurene til seminar 3.1 i R (qmd-fil)](https://uit-sok-2008-h23.github.io/assets/seminar_3.1_kode.qmd)
+* * [Feedback-seminar utfordring 2](https://uit-sok-2008-h23.github.io/assets/Feedbackseminar_utf2.pdf)
 ### Tema 4
 * [Seminar 4](https://uit-sok-2008-h23.github.io/assets/seminar_4.html)
 * [Seminar 4 - løsning](https://uit-sok-2008-h23.github.io/assets/seminar_4_løsning.html)
-* [Feedback-seminar utfordring 2](https://uit-sok-2008-h23.github.io/assets/Feedbackseminar_utf2.pdf)
+* [Feedback-seminar utfordring 3](https://uit-sok-2008-h23.github.io/assets/Feedbackseminar_utf3.pdf)
+* [Matematisk og grafisk løsning til oppgave 3.1.1](https://uit-sok-2008-h23.github.io/assets/Utf3.1.1_sensorveiledning.html)
