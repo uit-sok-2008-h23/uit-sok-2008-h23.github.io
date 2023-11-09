@@ -27,5 +27,5 @@
 ### Tema 4
 * [Seminar 4](https://uit-sok-2008-h23.github.io/assets/seminar_4.html)
 * [Seminar 4 - løsning](https://uit-sok-2008-h23.github.io/assets/seminar_4_løsning.html)
-* [Feedback-seminar utfordring 3](https://uit-sok-2008-h23.github.io/assets/Feedbackseminar_utf3.pdf)
+* [Feedback-seminar utfordring 3](https://uit-sok-2008-h23.github.io/assets/Feedbackseminar_utf3%20.pdf)
 * [Matematisk og grafisk løsning til oppgave 3.1.1](https://uit-sok-2008-h23.github.io/assets/Utf3.1.1_sensorveiledning.html)
