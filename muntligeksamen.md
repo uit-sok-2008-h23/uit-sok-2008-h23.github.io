@@ -38,12 +38,32 @@ I den første delen skal du besvare to generelle spørsmål. Du vil ha totalt 10
 Etter din presentasjon vil sensorene kunne stille spørsmål til presentasjonen din.
 
 ### Del 2
-I den andre delen vil du få spørsmål knyttet til **inneboende problemer som finnes idag i den nordiske modellen, og utfordringer som modellen står innfor i framtiden**. Du vil få spørsmål som er knyttet til spesifikke temaer (f.eks "liberal innvandringspolitikk", "en aldrende befolkning"). Temaene blir trukket tilfeldig. Vi vil spesifisere temaene som inngår i trekningen seinest to uker før eksamen. Her nede finner du en generell instruksjon til hva temaene vil fokusere på, og hva du skal tenke på i din besvarelse.
+I den andre delen vil du få to tilfeldig trukne spørsmål. Spørsmålene blir trukne fra listen av spørsmål her under. Spørsmålene er knyttet til forskjellige temaer. Du kan få et spørsmål fra et tema og et annet spørsmål fra et helt annet tema. 
 
-* *Instruksjon*: For at den nordiske modellen skal være bærekraftig må finansieringen av velferdsordningene sikres. Hva trengs for å få til denne finansieringen og hvilke trusler finns det mot finansieringen? Fokuser på økonomiske argumenter og teori i din besvarelse! 
+* *Instruksjon*: Husk å knytte din besvarelse både til økonomisk teori, og til den nordiske modellen. 
 
 * Maks poeng: 6 poeng.
 * Tid: 10 minutter
+
+### Temaer og spørsmål
+
+#### Tema 1. Høy yrkesdeltakelse og den nordiske modellen
+1.	Forklar hvordan familiepolitikk kan bidra til å støtte høy yrkesdeltakelse. Gi minst et eksempel på et familiepolitisk tiltak og bruk økonomisk teori til å forklare.
+2.	Forklar hvordan offentlig finansierte helsetjenester bidrar til å støtte høy yrkesdeltakelse i den nordiske modellen. Bruk samfunnsøkonomisk teori til å diskutere utfordringer knyttet til offentlig helseforsikring. 
+3.	Bruk økonomisk teori til å forklare de samfunnsøkonomiske effektivitetsargumentene bak offentlig finansiert utdanning.  Forklar også hvordan offentlig finansiert utdanning kan bidra til å nå målene i den nordiske modellen
+
+#### Tema 2. Et organisert arbeidsliv og den nordiske modellen
+1.	Beskriv rollen til fagforeninger og arbeidsgiverorganisasjoner som sentrale aktører i det organiserte arbeidslivet i den nordiske modellen. Hvordan fremmer de arbeidstakernes interesser og sikrer samtidig økonomisk effektivitet? Knytt diskusjonen din til økonomisk teori.
+2.	Bruk økonomisk teori til å forklare hvordan sterke fagforeninger kan påvirke bedrifters konkurranseevne og kostnader i den nordiske modellen. Hvordan kan dette representere en utfordring for den nordiske modellen, spesielt i en globalisert økonomi?
+3.	Organisasjonsgraden i Norden er relativt høy, men det er likevel ganske store forskjeller i organisasjonsgrad i ulike grupper. Gi eksempler på forskjeller i organisasjonsgrad i ulike grupper og bruk økonomisk teori til å forklare på hvilken måte kan dette være en utfordring for den nordiske modellen? 
+
+#### Tema 3. Inntektssikring og den nordiske modellen
+1.	Forklar hvorfor arbeidsledighetstrygd er en sentral del av den nordiske modellen, og hvilke disinsentiveffekter som er knyttet til arbeidsledighetstrygd. Knytt diskusjonen din til økonomisk teori.
+2.	Forklar hvorfor sosialforsikring (inntektssikring) er en sentral del av den nordiske modellen. Bruk økonomisk teori til å forklare hvilke disinsentiveffekter som er knyttet til sosialforsikring.
+
+#### Tema 4. Framtiden og den nordiske modellen
+1.	Forklar hvordan innvandring både kan være sentral for å øke bærekraften til den nordiske modellen, og skape utfordringer for bærekraften til modellen. Knytt diskusjonen din til økonomisk teori. 
+2.	Forklar hvordan teknologisk utvikling både kan være sentral for å øke bærekraften til den nordiske modellen, og skape utfordringer for bærekraften til modellen. Knytt diskusjonen din til økonomisk teori. 
 
 ## Regler
 Presentasjonen skal være muntlig. Det vil finnes en whiteboard og penner i rommet slik at dere kan tegne på tavla om det er behov for dette. 
