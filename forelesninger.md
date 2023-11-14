@@ -37,3 +37,7 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 * [Oppslutning om velferdsstaten](https://uit-sok-2008-h23.github.io/assets/tillit_studenter.html)
 * [Velferdsstatens framtid](https://uit-sok-2008-h23.github.io/assets/framtid_2023_studenter.html)
 
+  
+## Oppsummering og instruks til muntlig eksamen
+* [Instruks til muntlig eksamen](https://uit-sok-2008-h23.github.io/assets/Instruks_muntlig_eksamen2023.pdf)
+
